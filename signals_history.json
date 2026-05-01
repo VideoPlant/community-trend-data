@@ -1,5 +1,103 @@
 [
   {
+    "collected_at": "2026-05-01T08:00:53Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게이머들의 HOT 이슈 실시간 추적 및 커뮤니티 논란 분석 수요",
+        "source_posts": [
+          {
+            "title": "롤) 논란 뜨자마자 팀에서 일단 결론날 때까지 경기 못나오게 하고",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020065?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "롤) 이제 케스파가 징계를 주면 개쳐웃기겠네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020064?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "롤) 이제 국세청이 맞냐 lck가 맞냐가 된건데",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020063?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "롤)공식 채팅창 밴도 안함 ㅋㅋ",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020062?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임 커뮤니티의 실시간 HOT 이슈를 자동 수집·AI 요약·감정분석해서 게이머에게 맞춤 큐레이션하는 앱",
+        "target_user": "20-30대 게이머, 특히 롤/이스포츠 팬",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "일상의 소소한 행복 순간 공유 및 감성 커뮤니티 수요",
+        "source_posts": [
+          {
+            "title": "낮잠 잠깐 잤는데 엄청 행복한 기분이야",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020066?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "[ㅇㅎ] 짤쟁이 간만입니다(50)",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425681",
+            "source": "dcinside"
+          },
+          {
+            "title": "싱글벙글 일본에서 제일 잘나간다는 천재 디자이너",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425696",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "감성 순간을 영상/사진으로 공유하고 AI 감정분석으로 비슷한 감정 사람들 매칭·커뮤니티화하는 감성 SNS",
+        "target_user": "20-30대 직장인, 감성 콘텐츠 선호층",
+        "urgency": "medium",
+        "b2c_potential": "감성"
+      },
+      {
+        "signal": "비혼·1인 라이프 확산에 따른 맞춤형 라이프스타일 가이드 수요",
+        "source_posts": [
+          {
+            "title": "19?)내가 30대에 연애를 깔끔하게 포기한 이유중 하나",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020055?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "30-40대 비혼자 위한 '혼자 잘 사는' 라이프스타일 앱 (취미 추천·일정관리·혼족 커뮤니티)",
+        "target_user": "30-40대 미혼자, 1인 가구",
+        "urgency": "medium",
+        "b2c_potential": "라이프스타일"
+      },
+      {
+        "signal": "성형·외모·스타일 개선에 대한 한국식 미적기준 가이드 수요",
+        "source_posts": [
+          {
+            "title": "싱글벙글 대부분 티가 심하게 난다는 성형수술",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425691",
+            "source": "dcinside"
+          },
+          {
+            "title": "싱글벙글 일본에서 제일 잘나간다는 천재 디자이너",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425696",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "얼굴 사진 업로드 → AI가 '한국 미적기준 기반 개선점'과 '성형 없이 패션/메이크업으로 해결하는 방법' 제시",
+        "target_user": "20-30대 여성, 외모 관심층",
+        "urgency": "medium",
+        "b2c_potential": "감성"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-04-29T14:42:00Z",
     "post_count": 35,
     "sources": [

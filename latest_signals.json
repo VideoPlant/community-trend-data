@@ -1,49 +1,87 @@
 [
   {
-    "signal": "관계/성격 호불호 지속적 토론 — 상대방 이해 및 궁합에 대한 관심 높음",
+    "signal": "게이머들의 HOT 이슈 실시간 추적 및 커뮤니티 논란 분석 수요",
     "source_posts": [
-      "부인이 야한 콘텐츠 크리에이터면 어떨 거 같음?",
-      "호불호 갈리는 톰보이시한 여자친구의 미래",
-      "인방] 지인중 방송하는 사람이 두명인데..."
+      {
+        "title": "롤) 논란 뜨자마자 팀에서 일단 결론날 때까지 경기 못나오게 하고",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75020065?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "롤) 이제 케스파가 징계를 주면 개쳐웃기겠네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75020064?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "롤) 이제 국세청이 맞냐 lck가 맞냐가 된건데",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75020063?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "롤)공식 채팅창 밴도 안함 ㅋㅋ",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75020062?",
+        "source": "ruliweb"
+      }
     ],
-    "idea_hint": "성격 유형 테스트 → 관계 궁합/이해도 분석 AI (직장코드 유형 테스트 확장)",
-    "target_user": "20-30대 싱글/연애 커플",
+    "idea_hint": "게임 커뮤니티의 실시간 HOT 이슈를 자동 수집·AI 요약·감정분석해서 게이머에게 맞춤 큐레이션하는 앱",
+    "target_user": "20-30대 게이머, 특히 롤/이스포츠 팬",
     "urgency": "high",
-    "b2c_potential": "관계"
-  },
-  {
-    "signal": "게임 커뮤니티 열정 + 지역 모임/오프라인 연결 욕구",
-    "source_posts": [
-      "오버워치) 흔한 탱커들의 유대감.mp4",
-      "게임 토론",
-      "인방] 지인중 방송하는 사람이 두명인데..."
-    ],
-    "idea_hint": "게임/취미별 로컬 모임 매칭 플랫폼 (온라인 커뮤니티 → 오프라인 모임 연결)",
-    "target_user": "20-30대 게임/취미 동호인",
-    "urgency": "medium",
     "b2c_potential": "취미"
   },
   {
-    "signal": "특정 직업(게임개발자, 크리에이터, BJ 등) 경험담 & 현실 공유에 대한 관심",
+    "signal": "일상의 소소한 행복 순간 공유 및 감성 커뮤니티 수요",
     "source_posts": [
-      "싱글벙글 블루아카이브 퇴사자들이 만든 게임 근황",
-      "60억 혈세 투입했는데 논란 터진 K-인디게임 지원 사업",
-      "살아있는 힙합. 빅뱅 탑이 휴가가 필요없는 이유"
+      {
+        "title": "낮잠 잠깐 잤는데 엄청 행복한 기분이야",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75020066?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "[ㅇㅎ] 짤쟁이 간만입니다(50)",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425681",
+        "source": "dcinside"
+      },
+      {
+        "title": "싱글벙글 일본에서 제일 잘나간다는 천재 디자이너",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425696",
+        "source": "dcinside"
+      }
     ],
-    "idea_hint": "게임개발/크리에이터/스트리머 전문 경험담 플랫폼 (직업별 멘토링 & 커뮤니티)",
-    "target_user": "게임개발자, 크리에이터, 신입 직무 변환 고민자",
+    "idea_hint": "감성 순간을 영상/사진으로 공유하고 AI 감정분석으로 비슷한 감정 사람들 매칭·커뮤니티화하는 감성 SNS",
+    "target_user": "20-30대 직장인, 감성 콘텐츠 선호층",
     "urgency": "medium",
-    "b2c_potential": "직업/감성"
+    "b2c_potential": "감성"
   },
   {
-    "signal": "일상 작은 선택/루틴 결정에 대한 커뮤니티 의견 수집",
+    "signal": "비혼·1인 라이프 확산에 따른 맞춤형 라이프스타일 가이드 수요",
     "source_posts": [
-      "저녁 피자vs카레",
-      "내일 와야겠다..",
-      "원룸 커튼 떨어짐."
+      {
+        "title": "19?)내가 30대에 연애를 깔끔하게 포기한 이유중 하나",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75020055?",
+        "source": "ruliweb"
+      }
     ],
-    "idea_hint": "기분/날씨/시간/심리 맥락을 읽고 저녁 활동/메뉴/결정 조언하는 AI",
-    "target_user": "20-30대 직장인/대학생",
+    "idea_hint": "30-40대 비혼자 위한 '혼자 잘 사는' 라이프스타일 앱 (취미 추천·일정관리·혼족 커뮤니티)",
+    "target_user": "30-40대 미혼자, 1인 가구",
+    "urgency": "medium",
+    "b2c_potential": "라이프스타일"
+  },
+  {
+    "signal": "성형·외모·스타일 개선에 대한 한국식 미적기준 가이드 수요",
+    "source_posts": [
+      {
+        "title": "싱글벙글 대부분 티가 심하게 난다는 성형수술",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425691",
+        "source": "dcinside"
+      },
+      {
+        "title": "싱글벙글 일본에서 제일 잘나간다는 천재 디자이너",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425696",
+        "source": "dcinside"
+      }
+    ],
+    "idea_hint": "얼굴 사진 업로드 → AI가 '한국 미적기준 기반 개선점'과 '성형 없이 패션/메이크업으로 해결하는 방법' 제시",
+    "target_user": "20-30대 여성, 외모 관심층",
     "urgency": "medium",
     "b2c_potential": "감성"
   }
