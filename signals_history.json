@@ -1,5 +1,113 @@
 [
   {
+    "collected_at": "2026-05-04T08:00:51Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "외식 가격/품질 투명성 부족 — 이물질, 더러운 시설, 과장된 가격에 대한 불만",
+        "source_posts": [
+          {
+            "title": "약혐) 된장찌개 속 '싱크대 뚜껑'?…이물질 논란에 뭇매 맞은 식당[94]새로운보수당15:45",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426403",
+            "source": "dcinside"
+          },
+          {
+            "title": "동해시 18만원짜리 호텔 옥탑 숙소, 더럽고 냄새나 고통…성수기 값 논란[37]이론16:25",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426419",
+            "source": "dcinside"
+          },
+          {
+            "title": "공기밥 2천원보다 더 충격적인것",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75056719?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "맛집/음식점 품질·가격 투명성 플랫폼 — 사진 + 체크리스트 + 실시간 가격 공유",
+        "target_user": "20-40대 외식 자주 하는 직장인/가정주부",
+        "urgency": "high",
+        "b2c_potential": "건강"
+      },
+      {
+        "signal": "경제적 어려움 심화 — 취업난, 물가 인상, 자영업 실패에 대한 절박함과 자조",
+        "source_posts": [
+          {
+            "title": "현재 취업난 맞는 이유",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75056732?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "사업 망하고 인생 포기하려다 버스기사가된 40대 여성[90]부동산16:20",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426417",
+            "source": "dcinside"
+          },
+          {
+            "title": "\"비싸도 구할 수만 있다면\"‥자영업자들 '시름'[77]무출산16:30",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426421",
+            "source": "dcinside"
+          },
+          {
+            "title": "취업난 팩트",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75056723?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "경제 어려움 겪는 사람들의 정보공유 커뮤니티 — 저가 일자리, 지원금, 저가 식사 정보",
+        "target_user": "20-40대 경제적 어려움 겪는 직장 구직자/자영업자",
+        "urgency": "high",
+        "b2c_potential": "금융"
+      },
+      {
+        "signal": "게임 구매·추천 의사결정 어려움 — 어떤 게임을 사야 할지, 재미도/비용 대비 가치 불명확",
+        "source_posts": [
+          {
+            "title": "스팀게임구매) 캡콤 파이터 콜랙션1을 사려고 하는데.. 뱀파이어헌터시리즈...",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619384",
+            "source": "ruliweb"
+          },
+          {
+            "title": "블루아카) 블루 아메리카 쵸퍼.manga",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75056718?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "파판14)동시패치 되니 오류수정이 죤내 많아졌어",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75056717?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임 추천 AI 플랫폼 — 취향 기반 추천 + 재미도/시간투자/가격 시뮬레이터",
+        "target_user": "20-30대 캐주얼·코어 게이머",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "여행 경험 공유 및 실시간 정보 니즈 — 개별적 여행 후기는 많으나 통합 플랫폼 부족",
+        "source_posts": [
+          {
+            "title": "포르투갈 다녀옴",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426427",
+            "source": "dcinside"
+          },
+          {
+            "title": "돌아온 탕아의 일주일간 시고쿠 일주 2일차 - 쇼도시마 上[8]일본여행 - 관동이외15:25",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426397",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "여행 로그 + 지도 기반 경로·음식점·숙소 추천 앱 — 다른 여행객 후기 실시간 반영",
+        "target_user": "20-35대 해외 여행 자주 가는 MZ세대",
+        "urgency": "medium",
+        "b2c_potential": "관계"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-03T08:00:59Z",
     "post_count": 80,
     "sources": [
