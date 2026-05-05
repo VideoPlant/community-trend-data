@@ -1,98 +1,87 @@
 [
   {
-    "signal": "외식 가격/품질 투명성 부족 — 이물질, 더러운 시설, 과장된 가격에 대한 불만",
+    "signal": "직장인의 점심시간 피로·회복 니즈 (수면카페 트렌드)",
     "source_posts": [
       {
-        "title": "약혐) 된장찌개 속 '싱크대 뚜껑'?…이물질 논란에 뭇매 맞은 식당[94]새로운보수당15:45",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426403",
+        "title": "요즘 유행이라는 점심시간에 식당 대신 수면카페 가서 낮잠 자기[278]잡담15:11",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426647",
         "source": "dcinside"
       },
       {
-        "title": "동해시 18만원짜리 호텔 옥탑 숙소, 더럽고 냄새나 고통…성수기 값 논란[37]이론16:25",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426419",
-        "source": "dcinside"
-      },
-      {
-        "title": "공기밥 2천원보다 더 충격적인것",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75056719?",
+        "title": "휴일인데 좀 지루하다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75068990?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "맛집/음식점 품질·가격 투명성 플랫폼 — 사진 + 체크리스트 + 실시간 가격 공유",
-    "target_user": "20-40대 외식 자주 하는 직장인/가정주부",
+    "idea_hint": "점심 시간 최적 휴식 플래너: 주변 수면카페/조용한 장소 맵, 짧은 낮잠 타이머, 피로도 추적",
+    "target_user": "20-40대 도시 직장인, 피로 관리 필요자",
     "urgency": "high",
-    "b2c_potential": "건강"
+    "b2c_potential": "건강/감성"
   },
   {
-    "signal": "경제적 어려움 심화 — 취업난, 물가 인상, 자영업 실패에 대한 절박함과 자조",
+    "signal": "혼자 외출/여행 시 갈 곳 추천 니즈",
     "source_posts": [
       {
-        "title": "현재 취업난 맞는 이유",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75056732?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "사업 망하고 인생 포기하려다 버스기사가된 40대 여성[90]부동산16:20",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426417",
-        "source": "dcinside"
-      },
-      {
-        "title": "\"비싸도 구할 수만 있다면\"‥자영업자들 '시름'[77]무출산16:30",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426421",
-        "source": "dcinside"
-      },
-      {
-        "title": "취업난 팩트",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75056723?",
+        "title": "부산에 혼자 놀만한 곳이 있을까요?",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619388",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "경제 어려움 겪는 사람들의 정보공유 커뮤니티 — 저가 일자리, 지원금, 저가 식사 정보",
-    "target_user": "20-40대 경제적 어려움 겪는 직장 구직자/자영업자",
-    "urgency": "high",
-    "b2c_potential": "금융"
+    "idea_hint": "혼자 가기 좋은 장소 추천 앱: 지역별 카페·박물관·공원 필터링, 솔로 방문자 후기, 지도 연동",
+    "target_user": "20-40대 혼자 외출하는 사람, 여행 계획자",
+    "urgency": "medium",
+    "b2c_potential": "취미/관계/감성"
   },
   {
-    "signal": "게임 구매·추천 의사결정 어려움 — 어떤 게임을 사야 할지, 재미도/비용 대비 가치 불명확",
+    "signal": "게임 초보자 정보 부족 (초기화·시스템 이해 난제)",
     "source_posts": [
       {
-        "title": "스팀게임구매) 캡콤 파이터 콜랙션1을 사려고 하는데.. 뱀파이어헌터시리즈...",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619384",
+        "title": "ps5)GTA온라인 처음부터 다시시작 하려면",
+        "url": "https://bbs.ruliweb.com/etcs/board/100446/read/9435753",
         "source": "ruliweb"
       },
       {
-        "title": "블루아카) 블루 아메리카 쵸퍼.manga",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75056718?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "파판14)동시패치 되니 오류수정이 죤내 많아졌어",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75056717?",
+        "title": "타오리아 곡도에서 까마귀추적 어비스를 빼고 싶은데 왜 안되죠??",
+        "url": "https://bbs.ruliweb.com/etcs/board/185595/read/13255",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임 추천 AI 플랫폼 — 취향 기반 추천 + 재미도/시간투자/가격 시뮬레이터",
-    "target_user": "20-30대 캐주얼·코어 게이머",
+    "idea_hint": "게임별 초보자 가이드 검색 엔진: 인기 게임별 스텝별 튜토리얼, 커뮤니티 Q&A 수집, 버전/업데이트 대응",
+    "target_user": "10-30대 게임 입문자, 새로운 게임 시작하는 사람",
     "urgency": "medium",
     "b2c_potential": "취미"
   },
   {
-    "signal": "여행 경험 공유 및 실시간 정보 니즈 — 개별적 여행 후기는 많으나 통합 플랫폼 부족",
+    "signal": "일상 선택지 피로·결정 마비 (메뉴·활동 추천 니즈)",
     "source_posts": [
       {
-        "title": "포르투갈 다녀옴",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426427",
-        "source": "dcinside"
+        "title": "금주1일차 저녁메뉴 추천받음",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75068981?",
+        "source": "ruliweb"
       },
       {
-        "title": "돌아온 탕아의 일주일간 시고쿠 일주 2일차 - 쇼도시마 上[8]일본여행 - 관동이외15:25",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426397",
+        "title": "휴일인데 좀 지루하다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75068990?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "오늘의 추천 큐레이션 앱: AI 기반 저녁메뉴/취미/외출 선택지 3개 제공, 기분/재정 상태 반영",
+    "target_user": "20-40대 선택 피로 느끼는 사람, 루틴 부족한 직장인",
+    "urgency": "medium",
+    "b2c_potential": "감성/취미"
+  },
+  {
+    "signal": "사회초년생 금융 초보자용 정보 부족 (보험·대출 이해의 어려움)",
+    "source_posts": [
+      {
+        "title": "차 처음 산 사회초년생용 자동차보험 초간단 팁입니다[139]싱글벙글 지구촌15:00",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426645",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "여행 로그 + 지도 기반 경로·음식점·숙소 추천 앱 — 다른 여행객 후기 실시간 반영",
-    "target_user": "20-35대 해외 여행 자주 가는 MZ세대",
+    "idea_hint": "생활금융 100일 챌린지: 보험·대출·세금 기초, 비교 도구, 실제 사례별 체크리스트",
+    "target_user": "20-30대 사회초년생, 첫 경제활동 진입자",
     "urgency": "medium",
-    "b2c_potential": "관계"
+    "b2c_potential": "금융"
   }
 ]

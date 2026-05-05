@@ -1,5 +1,102 @@
 [
   {
+    "collected_at": "2026-05-05T08:00:52Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "직장인의 점심시간 피로·회복 니즈 (수면카페 트렌드)",
+        "source_posts": [
+          {
+            "title": "요즘 유행이라는 점심시간에 식당 대신 수면카페 가서 낮잠 자기[278]잡담15:11",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426647",
+            "source": "dcinside"
+          },
+          {
+            "title": "휴일인데 좀 지루하다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75068990?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "점심 시간 최적 휴식 플래너: 주변 수면카페/조용한 장소 맵, 짧은 낮잠 타이머, 피로도 추적",
+        "target_user": "20-40대 도시 직장인, 피로 관리 필요자",
+        "urgency": "high",
+        "b2c_potential": "건강/감성"
+      },
+      {
+        "signal": "혼자 외출/여행 시 갈 곳 추천 니즈",
+        "source_posts": [
+          {
+            "title": "부산에 혼자 놀만한 곳이 있을까요?",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619388",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "혼자 가기 좋은 장소 추천 앱: 지역별 카페·박물관·공원 필터링, 솔로 방문자 후기, 지도 연동",
+        "target_user": "20-40대 혼자 외출하는 사람, 여행 계획자",
+        "urgency": "medium",
+        "b2c_potential": "취미/관계/감성"
+      },
+      {
+        "signal": "게임 초보자 정보 부족 (초기화·시스템 이해 난제)",
+        "source_posts": [
+          {
+            "title": "ps5)GTA온라인 처음부터 다시시작 하려면",
+            "url": "https://bbs.ruliweb.com/etcs/board/100446/read/9435753",
+            "source": "ruliweb"
+          },
+          {
+            "title": "타오리아 곡도에서 까마귀추적 어비스를 빼고 싶은데 왜 안되죠??",
+            "url": "https://bbs.ruliweb.com/etcs/board/185595/read/13255",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 초보자 가이드 검색 엔진: 인기 게임별 스텝별 튜토리얼, 커뮤니티 Q&A 수집, 버전/업데이트 대응",
+        "target_user": "10-30대 게임 입문자, 새로운 게임 시작하는 사람",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "일상 선택지 피로·결정 마비 (메뉴·활동 추천 니즈)",
+        "source_posts": [
+          {
+            "title": "금주1일차 저녁메뉴 추천받음",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75068981?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "휴일인데 좀 지루하다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75068990?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "오늘의 추천 큐레이션 앱: AI 기반 저녁메뉴/취미/외출 선택지 3개 제공, 기분/재정 상태 반영",
+        "target_user": "20-40대 선택 피로 느끼는 사람, 루틴 부족한 직장인",
+        "urgency": "medium",
+        "b2c_potential": "감성/취미"
+      },
+      {
+        "signal": "사회초년생 금융 초보자용 정보 부족 (보험·대출 이해의 어려움)",
+        "source_posts": [
+          {
+            "title": "차 처음 산 사회초년생용 자동차보험 초간단 팁입니다[139]싱글벙글 지구촌15:00",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426645",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "생활금융 100일 챌린지: 보험·대출·세금 기초, 비교 도구, 실제 사례별 체크리스트",
+        "target_user": "20-30대 사회초년생, 첫 경제활동 진입자",
+        "urgency": "medium",
+        "b2c_potential": "금융"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-04T08:00:51Z",
     "post_count": 80,
     "sources": [
