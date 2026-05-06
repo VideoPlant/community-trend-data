@@ -1,5 +1,108 @@
 [
   {
+    "collected_at": "2026-05-06T08:00:55Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "로컬 음식·카페 정보 검색의 어려움 (가격대별, 지역별 추천 수요)",
+        "source_posts": [
+          {
+            "title": "2만원 내로 먹을수 있는 배달음식 추천 좀.",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080624?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "경기도 양평?쪽에 항아리 삼겹살?같은 거 파는데가 있음?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080625?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "지역·가격·카테고리별 필터링이 가능한 로컬 음식점 추천/지도 앱 (크롤링+DB로 초기 시작)",
+        "target_user": "20-30대 직장인, 학생 (가성비 음식 검색)",
+        "urgency": "high",
+        "b2c_potential": "음식/생활"
+      },
+      {
+        "signal": "게임별 산재된 정보·팁·일정을 한곳에서 찾기 힘든 점 (던파, 블루아카, 림버스 등)",
+        "source_posts": [
+          {
+            "title": "루나필 캐논 무기 질문드려요",
+            "url": "https://bbs.ruliweb.com/etcs/board/187027/read/780",
+            "source": "ruliweb"
+          },
+          {
+            "title": "던파) 진짜 욕을 안할수가 없네",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080638?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "던파) 이제 다음 핵심 컨텐츠가 8월 레이드죠?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080628?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "인기 게임 3-5개 기준으로 스킬팁·레이드 일정·아이템 정보를 커뮤니티 통합 플랫폼으로 제공",
+        "target_user": "20-40대 게이머 (정보 습득 욕구 높음)",
+        "urgency": "high",
+        "b2c_potential": "취미/게이밍"
+      },
+      {
+        "signal": "감정·일상의 작은 순간을 기록하고 공감받고 싶은 욕구 (익명성 + 공감)",
+        "source_posts": [
+          {
+            "title": "ㅈㄴ 우울해서 하겐다즈 3통샀어",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080635?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "드디어 왔따 내 어린이날 선♡물.jpg",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080634?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "오늘 두사람 퇴원했더라.",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080626?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "심리상담 첫 후기....",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75080632?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "감정 태그·시간별 기록이 가능한 익명 일상 다이어리 앱 (공감 버튼, 비슷한 감정 글 추천)",
+        "target_user": "20-30대 여성 (감정 표현·공감 욕구)",
+        "urgency": "high",
+        "b2c_potential": "감성/관계"
+      },
+      {
+        "signal": "성별·이성관계에 대한 깊은 고민과 익명 논의 수요 (민감하고 반복)",
+        "source_posts": [
+          {
+            "title": "한녀는 남편을 찾는게 아니라 아빠같은 남자를 원한다[130]주식16:20",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426902",
+            "source": "dcinside"
+          },
+          {
+            "title": "지금 2030, 여성계에서 제일 역겨워하는걸 건드렸네요[271]국내야구15:30",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=426884",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "성별·관계 고민을 익명으로 상담하고 커뮤니티 피드백을 받는 플랫폼 (민감 주제 모더레이션 필수)",
+        "target_user": "20-30대 (특히 여성), 이성관계·성별 역할 고민층",
+        "urgency": "high",
+        "b2c_potential": "관계/감성"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-05T08:00:52Z",
     "post_count": 80,
     "sources": [
