@@ -1,5 +1,16 @@
 [
   {
+    "collected_at": "2026-05-07T08:00:59Z",
+    "total": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signal_count": 0
+  },
+  {
     "collected_at": "2026-05-06T08:00:55Z",
     "total": 80,
     "sources": [
