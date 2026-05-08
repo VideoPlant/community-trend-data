@@ -1,5 +1,132 @@
 [
   {
+    "collected_at": "2026-05-08T08:00:44Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임 초보자의 기술 설정/플레이 Q&A 수요 — PC방에서 실행법, 무한무기 획득, 난이도별 공략",
+        "source_posts": [
+          {
+            "title": "피시방에서 gta5는 어떻게 실행 시켜야 하나요?",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619402",
+            "source": "ruliweb"
+          },
+          {
+            "title": "쉬움 모드 해도 무한무기 얻을수 있나요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/187029/read/3137",
+            "source": "ruliweb"
+          },
+          {
+            "title": "프로스피 2026 나오는거 맞나요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/110135/read/9415086",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 초보자 가이드 + AI 챗봇 Q&A — 설정/실행/공략을 30초 내 검색 가능",
+        "target_user": "20-35대 게임 초보자, PC방 이용객",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "월급 근로자의 목돈/재정 관리 불안감 — 전역금 1억 운용, 투자 손실 대처, 국민연금 불안",
+        "source_posts": [
+          {
+            "title": "군대 전역시 1억 어떰",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75107435",
+            "source": "ruliweb"
+          },
+          {
+            "title": "코스닥 상폐 위기에 몰린 개잡주의 선택.. ㄷㄷ[115]미국 주식",
+            "url": "https://bbs.ruliweb.com/etcs/board/110135/read/9415086",
+            "source": "ruliweb"
+          },
+          {
+            "title": "와들와들 요즘 국민연금 논란 잠잠한 이유[279]싱글벙글 지구촌",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427539",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "개인 재정 인생 이벤트(전역금, 결혼자금, 첫집)별 의사결정 + 또래 사례 공유 커뮤니티",
+        "target_user": "20-40대 직장인, MZ 투자자",
+        "urgency": "high",
+        "b2c_potential": "금융"
+      },
+      {
+        "signal": "웹툰/게임 구독자의 팬덤 활동 — 신작 예상, 스크린샷 자랑, 업데이트 대기 카운트다운",
+        "source_posts": [
+          {
+            "title": "림버스) 앞으로 1시간",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75107426",
+            "source": "ruliweb"
+          },
+          {
+            "title": "[단편] BULLET BLUES[33]카툰-연재",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427527",
+            "source": "dcinside"
+          },
+          {
+            "title": "이환) 왜 게임 스크린샷을 전문적으로 찍는 사람이 있는지 알겠음",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75107427",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "작품별 팬덤 채널 — 예상/스포일러 분리, 스크린샷 갤러리, 업데이트 알림 + 월정액 구독",
+        "target_user": "열성 게임/웹툰 팬, 20-35대",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "자취생의 일상 생활 불편함 공유 — 설거지 줄이기, 살림 팁, 혼자 사는 노하우",
+        "source_posts": [
+          {
+            "title": "설거지를 줄이고 싶은 자취생.jpg",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75107429",
+            "source": "ruliweb"
+          },
+          {
+            "title": "마운자로 2.5ml 한달맞다가 5ml 맞은 후기",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75107421",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "자취 생활 팁 + 또래 공감 커뮤니티 — 요리·청소·건강관리 노하우 큐레이션",
+        "target_user": "20-35대 자취생, 1인 가구",
+        "urgency": "medium",
+        "b2c_potential": "생활/감성"
+      },
+      {
+        "signal": "아마추어 창작자의 작품 피드백 수요 — 사진, 그림, 만화 공유 및 평가",
+        "source_posts": [
+          {
+            "title": "사진 올리러왔습니다.(22장)[11]디지털 사진",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427541",
+            "source": "dcinside"
+          },
+          {
+            "title": "그림 습작",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75107420",
+            "source": "ruliweb"
+          },
+          {
+            "title": "zf 첫 산책[18]디지털 사진",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427513",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "창작자 포트폴리오 + 피드백 매칭 플랫폼 — 사진작가/일러스트레이터 검증 가능한 평가",
+        "target_user": "아마추어 창작자, 20-45대",
+        "urgency": "low-medium",
+        "b2c_potential": "취미/창작"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-07T08:00:59Z",
     "post_count": 80,
     "sources": [
