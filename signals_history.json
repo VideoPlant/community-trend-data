@@ -1,5 +1,93 @@
 [
   {
+    "collected_at": "2026-05-10T08:01:14Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "일상 식단·건강 기록 및 커뮤니티 피드백 니즈",
+        "source_posts": [
+          {
+            "title": "싱글벙글 145cm 82kg 72세 할머니의 평소식단[345]싱글벙글 지구촌13:50",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427968",
+            "source": "dcinside"
+          },
+          {
+            "title": "써브웨이 오이샌드위치 후기",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75130853?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "개인의 식단·건강 기록을 공유하고 비슷한 상황의 사람들과 피드백을 주고받는 건강 커뮤니티",
+        "target_user": "20-50대 건강 관심층, 다이어트·건강 기록 사용자",
+        "urgency": "high",
+        "b2c_potential": "건강"
+      },
+      {
+        "signal": "게임 덱·빌드·공략 관리 및 초보자 가이드 플랫폼 니즈",
+        "source_posts": [
+          {
+            "title": "유희왕] 헤카톤 해보고 싶어서 덱리 알아보니",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75130854?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "젠레스) 이거 공포 에피소드인가요?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75130851?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "이터널리턴) 메인스와 이벤스 온도 차이",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75130844?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 덱·빌드 템플릿, 초보자 공략, 커뮤니티 토론을 한곳에서 관리하는 게임 가이드 플랫폼",
+        "target_user": "20-35대 게임 취미층, 보드게임·카드게임·온라인 게임 플레이어",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "피규어·건프라 등 수집품 관리, 손상 처리, 전시 공유 니즈",
+        "source_posts": [
+          {
+            "title": "shf 피규어 박스 투명 아크릴 일부분 깨졌는데 똑같이 만들어주는곳 없나...",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619410",
+            "source": "ruliweb"
+          },
+          {
+            "title": "건프라)퍼건 만든 거 보고 가!",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75130846?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "피규어·건프라 인벤토리 관리, 손상 수리 가이드, 수집가 커뮤니티에서 전시 공유 및 구매·판매",
+        "target_user": "25-45대 수집 취미층, 애니메이션·오덕 팬",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "직장인의 월급·재정 불안감 공감 및 심리 지원 커뮤니티",
+        "source_posts": [
+          {
+            "title": "오싹오싹 월급의 무서움[332]싱글벙글 지구촌15:00",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427979",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "월급·재정 불안감을 공감하고 경험 공유를 통해 심리적 안정감을 제공하는 직장인 커뮤니티",
+        "target_user": "25-45대 직장인, 월급 관리 관심층",
+        "urgency": "high",
+        "b2c_potential": "금융"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-09T08:00:50Z",
     "post_count": 80,
     "sources": [

@@ -1,83 +1,78 @@
 [
   {
-    "signal": "직장인의 일상 스트레스와 소소한 불편함 공유",
+    "signal": "일상 식단·건강 기록 및 커뮤니티 피드백 니즈",
     "source_posts": [
       {
-        "title": "인사고과 불이익 준다며 쉬는 날 호출한 팀장님[123]유머14:20",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427759",
+        "title": "싱글벙글 145cm 82kg 72세 할머니의 평소식단[345]싱글벙글 지구촌13:50",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427968",
         "source": "dcinside"
       },
       {
-        "title": "택시 운전하는 사람이 택시 면허랑 번호판이 별개인것도 모름....?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75119665",
+        "title": "써브웨이 오이샌드위치 후기",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130853?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "직장인의 소소한 불편함과 스트레스를 공유하고 공감받는 익명 커뮤니티 앱",
-    "target_user": "20-40대 직장인",
+    "idea_hint": "개인의 식단·건강 기록을 공유하고 비슷한 상황의 사람들과 피드백을 주고받는 건강 커뮤니티",
+    "target_user": "20-50대 건강 관심층, 다이어트·건강 기록 사용자",
     "urgency": "high",
-    "b2c_potential": "감성/관계"
+    "b2c_potential": "건강"
   },
   {
-    "signal": "해외 여행 시 로컬 명소와 숨은 정보 탐색의 어려움",
+    "signal": "게임 덱·빌드·공략 관리 및 초보자 가이드 플랫폼 니즈",
     "source_posts": [
       {
-        "title": "일본 홋카이도 여행을 가보고싶은데",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619407",
+        "title": "유희왕] 헤카톤 해보고 싶어서 덱리 알아보니",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130854?",
         "source": "ruliweb"
       },
       {
-        "title": "미얀마 여행중 비밀 사진명소를 돈주고 산 유튜버",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75119676",
+        "title": "젠레스) 이거 공포 에피소드인가요?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130851?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "이터널리턴) 메인스와 이벤스 온도 차이",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130844?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "여행객들의 실제 경험과 로컬 팁을 지도 기반으로 공유하는 플랫폼",
-    "target_user": "20-35세 여행 관심층",
+    "idea_hint": "게임별 덱·빌드 템플릿, 초보자 공략, 커뮤니티 토론을 한곳에서 관리하는 게임 가이드 플랫폼",
+    "target_user": "20-35대 게임 취미층, 보드게임·카드게임·온라인 게임 플레이어",
     "urgency": "medium",
     "b2c_potential": "취미"
   },
   {
-    "signal": "게임별 초보자 가이드와 빠른 정보 수집의 필요성",
+    "signal": "피규어·건프라 등 수집품 관리, 손상 처리, 전시 공유 니즈",
     "source_posts": [
       {
-        "title": "질문// 캐릭터 잠긴거 어떻게 풀수 있나요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/185595/read/13520",
+        "title": "shf 피규어 박스 투명 아크릴 일부분 깨졌는데 똑같이 만들어주는곳 없나...",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619410",
         "source": "ruliweb"
       },
       {
-        "title": "라오)네로마신이 신캐를 담당한 이유",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75119669",
+        "title": "건프라)퍼건 만든 거 보고 가!",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130846?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임 커뮤니티 질문을 자동 수집하고 AI로 FAQ/가이드를 생성하는 게임 헬프 사이트",
-    "target_user": "게이머, 특히 신규 유저",
+    "idea_hint": "피규어·건프라 인벤토리 관리, 손상 수리 가이드, 수집가 커뮤니티에서 전시 공유 및 구매·판매",
+    "target_user": "25-45대 수집 취미층, 애니메이션·오덕 팬",
     "urgency": "medium",
     "b2c_potential": "취미"
   },
   {
-    "signal": "일상 소비 정보(음식 가격, 상품 품절, 숨은 제품)의 실시간 공유 니즈",
+    "signal": "직장인의 월급·재정 불안감 공감 및 심리 지원 커뮤니티",
     "source_posts": [
       {
-        "title": "치킨시키려는데 가격이 똑같이 나오네",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75119674",
-        "source": "ruliweb"
-      },
-      {
-        "title": "코모도 이새끼들은 스팀 관련 하드웨어 싹다 품절인데?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75119673",
-        "source": "ruliweb"
-      },
-      {
-        "title": "이거 임원용 박카스라는데",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75119672",
-        "source": "ruliweb"
+        "title": "오싹오싹 월급의 무서움[332]싱글벙글 지구촌15:00",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427979",
+        "source": "dcinside"
       }
     ],
-    "idea_hint": "소비자들이 일상 쇼핑 정보(가격, 품절, 숨은 제품)를 빠르게 공유하는 미니 커뮤니티",
-    "target_user": "일반 소비자, 특히 MZ세대",
-    "urgency": "medium",
+    "idea_hint": "월급·재정 불안감을 공감하고 경험 공유를 통해 심리적 안정감을 제공하는 직장인 커뮤니티",
+    "target_user": "25-45대 직장인, 월급 관리 관심층",
+    "urgency": "high",
     "b2c_potential": "금융"
   }
 ]
