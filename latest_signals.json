@@ -1,78 +1,107 @@
 [
   {
-    "signal": "일상 식단·건강 기록 및 커뮤니티 피드백 니즈",
+    "signal": "생활 꿀팁·노하우 공유 및 검증 (다이소, 주방, 식사 팁)",
     "source_posts": [
       {
-        "title": "싱글벙글 145cm 82kg 72세 할머니의 평소식단[345]싱글벙글 지구촌13:50",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427968",
+        "title": "의외로 불법인 식사법",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142448?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "니네 이래서 다이소 가는거였구나",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142441?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "안녕하세요 싱크대 전문가입니다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142439?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "카테고리별 생활 꿀팁 큐레이션 + 사용자 검증 (추천수/댓글) 플랫폼 → 핀터레스트식 모바일 앱",
+    "target_user": "20-40대 직장인·주부 (효율성/가성비 중시층)",
+    "urgency": "high",
+    "b2c_potential": "생활/건강"
+  },
+  {
+    "signal": "문화 차이·국제 관점 공유 (한국 vs 일본·아랍 등)",
+    "source_posts": [
+      {
+        "title": "싱글벙글 일본의 관습이 이상하다는 아랍인",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428279",
         "source": "dcinside"
       },
       {
-        "title": "써브웨이 오이샌드위치 후기",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130853?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "개인의 식단·건강 기록을 공유하고 비슷한 상황의 사람들과 피드백을 주고받는 건강 커뮤니티",
-    "target_user": "20-50대 건강 관심층, 다이어트·건강 기록 사용자",
-    "urgency": "high",
-    "b2c_potential": "건강"
-  },
-  {
-    "signal": "게임 덱·빌드·공략 관리 및 초보자 가이드 플랫폼 니즈",
-    "source_posts": [
-      {
-        "title": "유희왕] 헤카톤 해보고 싶어서 덱리 알아보니",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130854?",
+        "title": "일본의 관습이 이상하다는 아랍인",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142443?",
         "source": "ruliweb"
       },
       {
-        "title": "젠레스) 이거 공포 에피소드인가요?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130851?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "이터널리턴) 메인스와 이벤스 온도 차이",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130844?",
+        "title": "싱글벙글 한국 여자 근황...jpg",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142259?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임별 덱·빌드 템플릿, 초보자 공략, 커뮤니티 토론을 한곳에서 관리하는 게임 가이드 플랫폼",
-    "target_user": "20-35대 게임 취미층, 보드게임·카드게임·온라인 게임 플레이어",
+    "idea_hint": "외국인 관점에서 한국 문화를 설명하는 스토리 + 댓글 기반 토론 커뮤니티",
+    "target_user": "20-30대 국제 관심층·유학생·한류 팬·외국인 거주자",
     "urgency": "medium",
-    "b2c_potential": "취미"
+    "b2c_potential": "감성/관계"
   },
   {
-    "signal": "피규어·건프라 등 수집품 관리, 손상 처리, 전시 공유 니즈",
+    "signal": "친구/관계 추억 기록·공유 (여행, 기념일, 장기 친구 관계)",
     "source_posts": [
       {
-        "title": "shf 피규어 박스 투명 아크릴 일부분 깨졌는데 똑같이 만들어주는곳 없나...",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619410",
+        "title": "50년지기 절친과 여행...jpg",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142455?",
         "source": "ruliweb"
       },
       {
-        "title": "건프라)퍼건 만든 거 보고 가!",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75130846?",
+        "title": "딸~ 혹시 남자친구 생긴거 아니지?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142446?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "피규어·건프라 인벤토리 관리, 손상 수리 가이드, 수집가 커뮤니티에서 전시 공유 및 구매·판매",
-    "target_user": "25-45대 수집 취미층, 애니메이션·오덕 팬",
+    "idea_hint": "친구 그룹 타임라인 + 공동 앨범 + 기념일 알림 (친밀한 관계 기록앱)",
+    "target_user": "20-40대 여성 중심, 추억·감성 중시층",
     "urgency": "medium",
-    "b2c_potential": "취미"
+    "b2c_potential": "감성/관계"
   },
   {
-    "signal": "직장인의 월급·재정 불안감 공감 및 심리 지원 커뮤니티",
+    "signal": "직업군별 고충·정보 공유 커뮤니티 (간호사, 교사, 임금, 문화)",
     "source_posts": [
       {
-        "title": "오싹오싹 월급의 무서움[332]싱글벙글 지구촌15:00",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=427979",
+        "title": "싱글벙글 요즘 군대와 같아지고 있다는 간호사 문화[162]싱글벙글 지구촌16:05",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428265",
+        "source": "dcinside"
+      },
+      {
+        "title": "\"그때 왜 그러셨나요\" 폭로가 수천개…씁쓸한 '스승의 은혜'[216]새로운보수당16:15",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428269",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "월급·재정 불안감을 공감하고 경험 공유를 통해 심리적 안정감을 제공하는 직장인 커뮤니티",
-    "target_user": "25-45대 직장인, 월급 관리 관심층",
+    "idea_hint": "직업군별 익명 커뮤니티 + 임금/복지/문화 정보공개 포럼 (메디엄·링크드인 하이브리드)",
+    "target_user": "직장인 (특히 간호사·교사·IT 등 특정 업종, 20-40대)",
     "urgency": "high",
-    "b2c_potential": "금융"
+    "b2c_potential": "직업/기타"
+  },
+  {
+    "signal": "외식 투명성·위생 정보 (음식점 평가, 윤리 경영 검증)",
+    "source_posts": [
+      {
+        "title": "쓰레기통 얼음 재사용한 광장시장 식당, 과태료 150만원[89]국내야구15:45",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428257",
+        "source": "dcinside"
+      },
+      {
+        "title": "미스터 초밥왕이 미디어가 발달한 현대사회였다면[20]디지털 사진15:35",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142445?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "음식점 사진 기반 위생·가격·윤리 리뷰 앱 (네이버 식신보다 투명한 커뮤니티)",
+    "target_user": "20-40대 외식 소비자 (가성비·건강 중시층)",
+    "urgency": "high",
+    "b2c_potential": "건강/생활"
   }
 ]
