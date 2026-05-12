@@ -1,107 +1,69 @@
 [
   {
-    "signal": "생활 꿀팁·노하우 공유 및 검증 (다이소, 주방, 식사 팁)",
+    "signal": "게임 공략/팁 정보에 대한 반복적인 Q&A 니즈 - 산재된 출처에서 정보 찾기",
     "source_posts": [
       {
-        "title": "의외로 불법인 식사법",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142448?",
+        "title": "흰여우 뒷이야기 어디서 볼수 있나요.",
+        "url": "https://bbs.ruliweb.com/etcs/board/186655/read/5395",
         "source": "ruliweb"
       },
       {
-        "title": "니네 이래서 다이소 가는거였구나",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142441?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "안녕하세요 싱크대 전문가입니다",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142439?",
+        "title": "고대인 프리스커스 탑이아닌 필드에 나오는데 버근가요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/185595/read/13759",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "카테고리별 생활 꿀팁 큐레이션 + 사용자 검증 (추천수/댓글) 플랫폼 → 핀터레스트식 모바일 앱",
-    "target_user": "20-40대 직장인·주부 (효율성/가성비 중시층)",
+    "idea_hint": "게임별 공략/버그/숨겨진 요소를 한곳에 축적하고 검색 가능한 게임별 Q&A 플랫폼",
+    "target_user": "20-35대 게임 플레이어, 특히 오픈월드/RPG 게이머",
     "urgency": "high",
-    "b2c_potential": "생활/건강"
+    "b2c_potential": "취미"
   },
   {
-    "signal": "문화 차이·국제 관점 공유 (한국 vs 일본·아랍 등)",
+    "signal": "일상의 소소한 감정·경험 공유 후 공감받으려는 반복적 욕구",
     "source_posts": [
       {
-        "title": "싱글벙글 일본의 관습이 이상하다는 아랍인",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428279",
+        "title": "초보운전인데 주차 생각보다 잘 기다려주네",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75154096?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "오늘은 퇴근하면 젠레스는 적당히 해야겠다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75154094?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "딸한테 질투가 난다..[170]미국 주식",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428571",
         "source": "dcinside"
       },
       {
-        "title": "일본의 관습이 이상하다는 아랍인",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142443?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "싱글벙글 한국 여자 근황...jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142259?",
+        "title": "백수의 그림 일기.manhwa",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75154092?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "외국인 관점에서 한국 문화를 설명하는 스토리 + 댓글 기반 토론 커뮤니티",
-    "target_user": "20-30대 국제 관심층·유학생·한류 팬·외국인 거주자",
-    "urgency": "medium",
-    "b2c_potential": "감성/관계"
-  },
-  {
-    "signal": "친구/관계 추억 기록·공유 (여행, 기념일, 장기 친구 관계)",
-    "source_posts": [
-      {
-        "title": "50년지기 절친과 여행...jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142455?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "딸~ 혹시 남자친구 생긴거 아니지?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142446?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "친구 그룹 타임라인 + 공동 앨범 + 기념일 알림 (친밀한 관계 기록앱)",
-    "target_user": "20-40대 여성 중심, 추억·감성 중시층",
-    "urgency": "medium",
-    "b2c_potential": "감성/관계"
-  },
-  {
-    "signal": "직업군별 고충·정보 공유 커뮤니티 (간호사, 교사, 임금, 문화)",
-    "source_posts": [
-      {
-        "title": "싱글벙글 요즘 군대와 같아지고 있다는 간호사 문화[162]싱글벙글 지구촌16:05",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428265",
-        "source": "dcinside"
-      },
-      {
-        "title": "\"그때 왜 그러셨나요\" 폭로가 수천개…씁쓸한 '스승의 은혜'[216]새로운보수당16:15",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428269",
-        "source": "dcinside"
-      }
-    ],
-    "idea_hint": "직업군별 익명 커뮤니티 + 임금/복지/문화 정보공개 포럼 (메디엄·링크드인 하이브리드)",
-    "target_user": "직장인 (특히 간호사·교사·IT 등 특정 업종, 20-40대)",
+    "idea_hint": "하루 감정·경험을 3줄로 기록 → 비슷한 감정의 다른 사람 자동 매칭 → 공감 댓글 모으기",
+    "target_user": "20-35대 직장인·학생, 공감·위로 갈증 있는 사람들",
     "urgency": "high",
-    "b2c_potential": "직업/기타"
+    "b2c_potential": "감성"
   },
   {
-    "signal": "외식 투명성·위생 정보 (음식점 평가, 윤리 경영 검증)",
+    "signal": "부동산·금융 상황 급변에 따른 실시간 정보 공유 및 생존 팁 교환",
     "source_posts": [
       {
-        "title": "쓰레기통 얼음 재사용한 광장시장 식당, 과태료 150만원[89]국내야구15:45",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428257",
+        "title": "매매가보다 더 올랐다고?, \"어떡하냐\" 눈물의 세입자들.webp[138]잡담",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428551",
         "source": "dcinside"
       },
       {
-        "title": "미스터 초밥왕이 미디어가 발달한 현대사회였다면[20]디지털 사진15:35",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75142445?",
-        "source": "ruliweb"
+        "title": "에쿠스 타고 월세받는 기초생활수급 한녀…부정수급 걸리자 \"정부 책임\"[94]무출산",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428569",
+        "source": "dcinside"
       }
     ],
-    "idea_hint": "음식점 사진 기반 위생·가격·윤리 리뷰 앱 (네이버 식신보다 투명한 커뮤니티)",
-    "target_user": "20-40대 외식 소비자 (가성비·건강 중시층)",
+    "idea_hint": "지역별·전세/월세 유형별 실시간 시세 변화 + 세금/정책 변화 뉴스레터 + 피해사례 Q&A",
+    "target_user": "20-50대 세입자·전세자·저신용자, 부동산 정보 갈증",
     "urgency": "high",
-    "b2c_potential": "건강/생활"
+    "b2c_potential": "금융"
   }
 ]

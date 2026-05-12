@@ -1,5 +1,84 @@
 [
   {
+    "collected_at": "2026-05-12T08:00:54Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임 공략/팁 정보에 대한 반복적인 Q&A 니즈 - 산재된 출처에서 정보 찾기",
+        "source_posts": [
+          {
+            "title": "흰여우 뒷이야기 어디서 볼수 있나요.",
+            "url": "https://bbs.ruliweb.com/etcs/board/186655/read/5395",
+            "source": "ruliweb"
+          },
+          {
+            "title": "고대인 프리스커스 탑이아닌 필드에 나오는데 버근가요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/185595/read/13759",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 공략/버그/숨겨진 요소를 한곳에 축적하고 검색 가능한 게임별 Q&A 플랫폼",
+        "target_user": "20-35대 게임 플레이어, 특히 오픈월드/RPG 게이머",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "일상의 소소한 감정·경험 공유 후 공감받으려는 반복적 욕구",
+        "source_posts": [
+          {
+            "title": "초보운전인데 주차 생각보다 잘 기다려주네",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75154096?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "오늘은 퇴근하면 젠레스는 적당히 해야겠다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75154094?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "딸한테 질투가 난다..[170]미국 주식",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428571",
+            "source": "dcinside"
+          },
+          {
+            "title": "백수의 그림 일기.manhwa",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75154092?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "하루 감정·경험을 3줄로 기록 → 비슷한 감정의 다른 사람 자동 매칭 → 공감 댓글 모으기",
+        "target_user": "20-35대 직장인·학생, 공감·위로 갈증 있는 사람들",
+        "urgency": "high",
+        "b2c_potential": "감성"
+      },
+      {
+        "signal": "부동산·금융 상황 급변에 따른 실시간 정보 공유 및 생존 팁 교환",
+        "source_posts": [
+          {
+            "title": "매매가보다 더 올랐다고?, \"어떡하냐\" 눈물의 세입자들.webp[138]잡담",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428551",
+            "source": "dcinside"
+          },
+          {
+            "title": "에쿠스 타고 월세받는 기초생활수급 한녀…부정수급 걸리자 \"정부 책임\"[94]무출산",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=428569",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "지역별·전세/월세 유형별 실시간 시세 변화 + 세금/정책 변화 뉴스레터 + 피해사례 Q&A",
+        "target_user": "20-50대 세입자·전세자·저신용자, 부동산 정보 갈증",
+        "urgency": "high",
+        "b2c_potential": "금융"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-11T08:00:54Z",
     "post_count": 80,
     "sources": [
