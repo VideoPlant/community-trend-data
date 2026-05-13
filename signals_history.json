@@ -1,5 +1,93 @@
 [
   {
+    "collected_at": "2026-05-13T08:00:48Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임 유저의 장비·공략·빌드 추천 니즈 반복 등장",
+        "source_posts": [
+          {
+            "title": "컨트롤러 추천 좀 부탁드립니다.",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619427",
+            "source": "ruliweb"
+          },
+          {
+            "title": "특수무기 분해가 되지 않을때",
+            "url": "https://bbs.ruliweb.com/etcs/board/184778/read/106890",
+            "source": "ruliweb"
+          },
+          {
+            "title": "오버워치)도대체 북미새끼들은 뭔 게임을 하길래",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75166275?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 장비/빌드 추천 커뮤니티 (AI 매칭 + 숏폼 가이드)",
+        "target_user": "20-40대 경쟁 게임 유저",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "직장·학교 진상 경험 및 일상 불편함을 익명 공유하고 공감받으려는 욕구",
+        "source_posts": [
+          {
+            "title": "유게이랑 친구가 만나본 진상 학부모들",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75166267?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "ㅋㅋ운전 좉같이 하는놈 신고함",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75166269?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "직장인·학부모 익명 고민 공유 커뮤니티 (블라인드/Reddit 하이브리드)",
+        "target_user": "25-50대 직장인, 학부모, 학생",
+        "urgency": "high",
+        "b2c_potential": "감정/관계"
+      },
+      {
+        "signal": "운동 도전 목표 및 진행도 기록·공유 욕구",
+        "source_posts": [
+          {
+            "title": "중량스쿼트 빡시다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75166263?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "운동 루틴 기록 + 친구/챌린지 공유 앱 (Strava 경량화 버전)",
+        "target_user": "20-40대 피트니스 관심자",
+        "urgency": "medium",
+        "b2c_potential": "건강"
+      },
+      {
+        "signal": "이성 관계 고민 및 외모·매력 평가 의견 교환",
+        "source_posts": [
+          {
+            "title": "존예 러시아 여자에게 번호 따인 존못 한국남자",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75166266?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "이런 여자가 앵기면 어찌함?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75166274?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "익명 이성 관계 조언·경험 공유 플랫폼 (Quora 스타일 Q&A)",
+        "target_user": "20-35대 싱글",
+        "urgency": "medium",
+        "b2c_potential": "관계"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-12T08:00:54Z",
     "post_count": 80,
     "sources": [
