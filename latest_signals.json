@@ -1,107 +1,103 @@
 [
   {
-    "signal": "AI 도구로 인한 직업 위협 및 전환 수요",
+    "signal": "게임 플레이어들의 패치·챌린지·팁 정보를 여러 커뮤니티에서 분산적으로 검색",
     "source_posts": [
       {
-        "title": "디자인 회사 운영하는데 챗 GPT 이미지 2.0이 나오고 회사가 망했습니다[88]이슈16:20",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429191",
-        "source": "dcinside"
+        "title": "블루아카) 곧 축제가 시작된드아~~",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190090?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "블루아카) 뭐야 헤비캘리버 엔딩곡 한글판도 풀버전 있잖아!!!",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190093?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "이번 다시 열리는 도샤구마 챌린지 질문입니다.",
+        "url": "https://bbs.ruliweb.com/etcs/board/186738/read/18646",
+        "source": "ruliweb"
+      },
+      {
+        "title": "이환) 엥? 헌터 거래소 리셋 되는거였어?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190085?",
+        "source": "ruliweb"
       }
     ],
-    "idea_hint": "AI 시대에 위협받는 직업 군을 분석하고 전환 경로와 수익화 재교육 가이드를 제공하는 커리어 전환 플랫폼",
-    "target_user": "20-50대 프리랜서·자영업자·직장인 (AI 도구로 인한 직업 위기 인식층)",
+    "idea_hint": "관심 게임(블루아카, 이환, 몬스터 헌터 등)의 패치·챌린지·팁을 한 대시보드에서 실시간 추적하는 게임 플레이어용 뉴스 앱",
+    "target_user": "20-35세 모바일·경량 게임 플레이어",
     "urgency": "high",
-    "b2c_potential": "커리어/교육"
-  },
-  {
-    "signal": "일상의 공감·유머 밈 콘텐츠 수집 및 공유 욕구",
-    "source_posts": [
-      {
-        "title": "한국에서 목이 말랐던 외국인.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178153?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "변호사가 빼박 가해자인 사람 변호하는 이유.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178152?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "로또 당첨 펜 vs 마법의 주식.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178151?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "훈훈한 명조 오프라인 행사장.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178146?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "일본인 : 자국산 소총이라지만 BB탄에 150만은 좀...",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178142?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "사용자 생성 밈/만화를 큐레이션하고 공유하는 커뮤니티 (Imgur+Reddit 한국판): 직장인의 일상적 우울함을 웃음으로 전환",
-    "target_user": "20-40대 직장인 및 대학생 (스트레스 해소·공감 콘텐츠 소비층)",
-    "urgency": "high",
-    "b2c_potential": "감성/관계"
-  },
-  {
-    "signal": "사회 예절·이벤트 비용 분담 불명확성 및 불편함",
-    "source_posts": [
-      {
-        "title": "신랑신부가 지키던 예의는 사라지고 하객한테 요구하는것만 많아짐[162]기타 국내 드라마16:05",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429186",
-        "source": "dcinside"
-      }
-    ],
-    "idea_hint": "결혼식·회식·행사의 비용 분담·선물 규범을 익명 커뮤니티에서 솔직하게 협상·조율하는 앱 (비용 계산기+에티켓 가이드)",
-    "target_user": "20-45대 사회인 (결혼·이벤트 참석 빈도 높은층)",
-    "urgency": "medium",
-    "b2c_potential": "감성/관계"
-  },
-  {
-    "signal": "게임·취미 커뮤니티 로컬 소모임 및 중고거래 수요",
-    "source_posts": [
-      {
-        "title": "프라모델/피규어/모형 전문가분들께 접착제 추천 좀 받고 싶습니다...",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619429",
-        "source": "ruliweb"
-      },
-      {
-        "title": "마이팀 모바일 프로패스 구매해보신분 계신가요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/104638/read/9451499",
-        "source": "ruliweb"
-      },
-      {
-        "title": "싱글벙글 명조 오프라인 행사장.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178146?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "게임·취미별 로컬 모임 매칭 + 중고 거래 통합 플랫폼 (밋업+마켓): 비슷한 취미층끼리 오프라인 소모임 형성",
-    "target_user": "20-40대 게임·취미 매니아층 (프라모델·게임·카드 등)",
-    "urgency": "medium",
     "b2c_potential": "취미"
   },
   {
-    "signal": "물가·생활비 정보 및 절약 팁 공유 욕구",
+    "signal": "부모들이 양육·교육·가정 문제의 실제 사례와 해결책을 온라인 커뮤니티에서 직접 찾고 공유",
     "source_posts": [
       {
-        "title": "한국의 삼계탕가격이 2만원이나 하는것에 분노한 알베르토",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178147?",
+        "title": "때리는 아이 제지했는데 아동학대 벌금형 받아",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429489",
+        "source": "dcinside"
+      },
+      {
+        "title": "전교 230등 하던 딸을 서울대 보낸 아빠",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429474",
+        "source": "dcinside"
+      },
+      {
+        "title": "아내 방치한 부사관 남편 검색 기록 털렸네",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429490",
+        "source": "dcinside"
+      }
+    ],
+    "idea_hint": "교육 전문가·양육 컨설턴트와 부모를 연결하는 실시간 Q&A 플랫폼 (월 구독 또는 크레딧 기반)",
+    "target_user": "25-50세 초등-고등학생 자녀 있는 부모",
+    "urgency": "high",
+    "b2c_potential": "건강"
+  },
+  {
+    "signal": "일상의 작은 '꿀팁'·음식·라이프스타일 경험이 엔터테인먼트로 소비되며 높은 상호작용 유도",
+    "source_posts": [
+      {
+        "title": "자동차 컵홀더 모양의 비밀.jpg",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190086?",
         "source": "ruliweb"
       },
       {
-        "title": "중국에서 박사졸업하고 대학에 취직하면 월급을 100만원대 받는다함",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75178148?",
+        "title": "과음한 이탈리아인 해장법",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429480",
+        "source": "dcinside"
+      },
+      {
+        "title": "24시간만에 첫 식사 트리플치즈버거",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190101?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "지역·카테고리별 물가 데이터 + 사용자 리뷰 + AI 절약 팁 추천 (가계부 2.0): 물가 인식 → 현명한 소비 의사결정 지원",
-    "target_user": "20-50대 직장인·자영업자 (생활비 절감 의식 높은층)",
+    "idea_hint": "30초-1분 짧은 라이프 해킹 비디오(음식·생활·건강팁)를 TikTok/Reels 형식으로 공유·큐레이션하는 앱",
+    "target_user": "18-35세 직장인·학생",
     "urgency": "medium",
-    "b2c_potential": "금융/건강"
+    "b2c_potential": "라이프스타일"
+  },
+  {
+    "signal": "아마추어 창작자(일러스트레이터·만화가)의 작품 공유 및 팬 커뮤니티 형성 수요 확인",
+    "source_posts": [
+      {
+        "title": "남캐만 그리는 작가님 몇장",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190089?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "아무튼 우리 편인 테크마린 제작기",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429469",
+        "source": "dcinside"
+      },
+      {
+        "title": "[ㅇㅎ] 하야시 코코",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429471",
+        "source": "dcinside"
+      }
+    ],
+    "idea_hint": "창작자의 포트폴리오 관리·팬 후원(Patreon형) 기능을 통합한 한국 창작자 플랫폼",
+    "target_user": "20-40세 아마추어·세미프로 창작자 및 팬",
+    "urgency": "medium",
+    "b2c_potential": "취미"
   }
 ]

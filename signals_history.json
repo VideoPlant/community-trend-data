@@ -1,5 +1,118 @@
 [
   {
+    "collected_at": "2026-05-15T08:01:00Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임 플레이어들의 패치·챌린지·팁 정보를 여러 커뮤니티에서 분산적으로 검색",
+        "source_posts": [
+          {
+            "title": "블루아카) 곧 축제가 시작된드아~~",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75190090?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "블루아카) 뭐야 헤비캘리버 엔딩곡 한글판도 풀버전 있잖아!!!",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75190093?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "이번 다시 열리는 도샤구마 챌린지 질문입니다.",
+            "url": "https://bbs.ruliweb.com/etcs/board/186738/read/18646",
+            "source": "ruliweb"
+          },
+          {
+            "title": "이환) 엥? 헌터 거래소 리셋 되는거였어?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75190085?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "관심 게임(블루아카, 이환, 몬스터 헌터 등)의 패치·챌린지·팁을 한 대시보드에서 실시간 추적하는 게임 플레이어용 뉴스 앱",
+        "target_user": "20-35세 모바일·경량 게임 플레이어",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "부모들이 양육·교육·가정 문제의 실제 사례와 해결책을 온라인 커뮤니티에서 직접 찾고 공유",
+        "source_posts": [
+          {
+            "title": "때리는 아이 제지했는데 아동학대 벌금형 받아",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429489",
+            "source": "dcinside"
+          },
+          {
+            "title": "전교 230등 하던 딸을 서울대 보낸 아빠",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429474",
+            "source": "dcinside"
+          },
+          {
+            "title": "아내 방치한 부사관 남편 검색 기록 털렸네",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429490",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "교육 전문가·양육 컨설턴트와 부모를 연결하는 실시간 Q&A 플랫폼 (월 구독 또는 크레딧 기반)",
+        "target_user": "25-50세 초등-고등학생 자녀 있는 부모",
+        "urgency": "high",
+        "b2c_potential": "건강"
+      },
+      {
+        "signal": "일상의 작은 '꿀팁'·음식·라이프스타일 경험이 엔터테인먼트로 소비되며 높은 상호작용 유도",
+        "source_posts": [
+          {
+            "title": "자동차 컵홀더 모양의 비밀.jpg",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75190086?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "과음한 이탈리아인 해장법",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429480",
+            "source": "dcinside"
+          },
+          {
+            "title": "24시간만에 첫 식사 트리플치즈버거",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75190101?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "30초-1분 짧은 라이프 해킹 비디오(음식·생활·건강팁)를 TikTok/Reels 형식으로 공유·큐레이션하는 앱",
+        "target_user": "18-35세 직장인·학생",
+        "urgency": "medium",
+        "b2c_potential": "라이프스타일"
+      },
+      {
+        "signal": "아마추어 창작자(일러스트레이터·만화가)의 작품 공유 및 팬 커뮤니티 형성 수요 확인",
+        "source_posts": [
+          {
+            "title": "남캐만 그리는 작가님 몇장",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75190089?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "아무튼 우리 편인 테크마린 제작기",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429469",
+            "source": "dcinside"
+          },
+          {
+            "title": "[ㅇㅎ] 하야시 코코",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429471",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "창작자의 포트폴리오 관리·팬 후원(Patreon형) 기능을 통합한 한국 창작자 플랫폼",
+        "target_user": "20-40세 아마추어·세미프로 창작자 및 팬",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-14T08:00:47Z",
     "post_count": 80,
     "sources": [
