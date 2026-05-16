@@ -1,103 +1,102 @@
 [
   {
-    "signal": "게임 플레이어들의 패치·챌린지·팁 정보를 여러 커뮤니티에서 분산적으로 검색",
+    "signal": "게임·하드웨어 구매 가이드 및 트러블슈팅 정보 분산",
     "source_posts": [
       {
-        "title": "블루아카) 곧 축제가 시작된드아~~",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190090?",
+        "title": "Ps5 슬림 세로 스탠드 샀는데 세워도될까요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/300426/read/30605468",
         "source": "ruliweb"
       },
       {
-        "title": "블루아카) 뭐야 헤비캘리버 엔딩곡 한글판도 풀버전 있잖아!!!",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190093?",
+        "title": "발로란트) 흐음.. 실행하면 메인 화면서 부터 뚝뚝 끊기고 멈추네..",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202954?",
         "source": "ruliweb"
       },
       {
-        "title": "이번 다시 열리는 도샤구마 챌린지 질문입니다.",
-        "url": "https://bbs.ruliweb.com/etcs/board/186738/read/18646",
-        "source": "ruliweb"
-      },
-      {
-        "title": "이환) 엥? 헌터 거래소 리셋 되는거였어?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190085?",
+        "title": "롤)리그의 T1은 젠지한테 상성이라...",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202952?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "관심 게임(블루아카, 이환, 몬스터 헌터 등)의 패치·챌린지·팁을 한 대시보드에서 실시간 추적하는 게임 플레이어용 뉴스 앱",
-    "target_user": "20-35세 모바일·경량 게임 플레이어",
+    "idea_hint": "게임/하드웨어별 빠른 Q&A + 사용자 리뷰 큐레이션 플랫폼",
+    "target_user": "20-30대 게이머·하드웨어 초보자",
     "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "부모들이 양육·교육·가정 문제의 실제 사례와 해결책을 온라인 커뮤니티에서 직접 찾고 공유",
+    "signal": "여행지 로컬 정보 (맛집, 주차 등) 신뢰할 만한 팁 부족",
     "source_posts": [
       {
-        "title": "때리는 아이 제지했는데 아동학대 벌금형 받아",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429489",
-        "source": "dcinside"
-      },
-      {
-        "title": "전교 230등 하던 딸을 서울대 보낸 아빠",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429474",
-        "source": "dcinside"
-      },
-      {
-        "title": "아내 방치한 부사관 남편 검색 기록 털렸네",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429490",
-        "source": "dcinside"
+        "title": "청주공항 자동차 파킹 문의, 제주도 식당 추천받습니다.",
+        "url": "https://bbs.ruliweb.com/etcs/board/300260/read/30553113",
+        "source": "ruliweb"
       }
     ],
-    "idea_hint": "교육 전문가·양육 컨설턴트와 부모를 연결하는 실시간 Q&A 플랫폼 (월 구독 또는 크레딧 기반)",
-    "target_user": "25-50세 초등-고등학생 자녀 있는 부모",
+    "idea_hint": "지역별 초간단 여행 정보 Q&A (네이버 지도보다 빠르고 가벼운 UX)",
+    "target_user": "20-50대 여행 초보자, 로컬 정보 신뢰성 추구 사용자",
+    "urgency": "medium",
+    "b2c_potential": "여행/기타"
+  },
+  {
+    "signal": "PC부품·기술 사양 비교 및 구매 의사결정 가이드 수요",
+    "source_posts": [
+      {
+        "title": "당근 컴퓨터 13700kf+h610 VS 12100f+z690 추천좀",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202961?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "Ps5 슬림 세로 스탠드 샀는데 세워도될까요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/300426/read/30605468",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "제품 사양 AI 비교 + 가성비 추천 플랫폼 (PC부품·게이밍 기기 특화)",
+    "target_user": "20-40대 테크 초보자, 가성비 중시 구매자",
     "urgency": "high",
+    "b2c_potential": "기타"
+  },
+  {
+    "signal": "일상의 재미있는 순간·감정 공유 후 재발견 불가능 (커뮤니티 내 분산)",
+    "source_posts": [
+      {
+        "title": "님들 갈매기가 닭강정 먹는 거 본적 있음?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202967?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "중국 웹 돌아다니면 볼 수 있는 거",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202965?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "이제 커피도 아이스로 마셔야겠구만",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202968?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "개인의 '일상 감성 모멘트' 자동 큐레이션·백업 앱 (Pinterest+개인 일기장)",
+    "target_user": "20-40대 직장인, 감성 콘텐츠 취향 사용자",
+    "urgency": "medium",
+    "b2c_potential": "감성"
+  },
+  {
+    "signal": "빠른 실답변이 필요한 실생활 Q&A 플랫폼 부재 (지식인은 너무 복잡)",
+    "source_posts": [
+      {
+        "title": "수박 이런종 구매할수 없을꺼요?",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619432",
+        "source": "ruliweb"
+      },
+      {
+        "title": "나 어디 아픈가",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202955?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "카톡·슬랙 같은 신속한 UX의 생활 Q&A (음식, 건강, 생활용품 특화)",
+    "target_user": "20-50대 실생활 정보 추구자",
+    "urgency": "medium",
     "b2c_potential": "건강"
-  },
-  {
-    "signal": "일상의 작은 '꿀팁'·음식·라이프스타일 경험이 엔터테인먼트로 소비되며 높은 상호작용 유도",
-    "source_posts": [
-      {
-        "title": "자동차 컵홀더 모양의 비밀.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190086?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "과음한 이탈리아인 해장법",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429480",
-        "source": "dcinside"
-      },
-      {
-        "title": "24시간만에 첫 식사 트리플치즈버거",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190101?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "30초-1분 짧은 라이프 해킹 비디오(음식·생활·건강팁)를 TikTok/Reels 형식으로 공유·큐레이션하는 앱",
-    "target_user": "18-35세 직장인·학생",
-    "urgency": "medium",
-    "b2c_potential": "라이프스타일"
-  },
-  {
-    "signal": "아마추어 창작자(일러스트레이터·만화가)의 작품 공유 및 팬 커뮤니티 형성 수요 확인",
-    "source_posts": [
-      {
-        "title": "남캐만 그리는 작가님 몇장",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75190089?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "아무튼 우리 편인 테크마린 제작기",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429469",
-        "source": "dcinside"
-      },
-      {
-        "title": "[ㅇㅎ] 하야시 코코",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429471",
-        "source": "dcinside"
-      }
-    ],
-    "idea_hint": "창작자의 포트폴리오 관리·팬 후원(Patreon형) 기능을 통합한 한국 창작자 플랫폼",
-    "target_user": "20-40세 아마추어·세미프로 창작자 및 팬",
-    "urgency": "medium",
-    "b2c_potential": "취미"
   }
 ]
