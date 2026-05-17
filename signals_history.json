@@ -1,5 +1,122 @@
 [
   {
+    "collected_at": "2026-05-17T08:00:44Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임/애니메이션 팬덤의 일상 감정 공유 및 의사결정",
+        "source_posts": [
+          {
+            "title": "롤) 오늘 케이티 믿는다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216330?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "롤) 비디디 오늘은 아구몬 만나고왔을까..?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216324?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "림버스)로수 흉통 살까?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216332?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "메탈카드봇)타키 인기가 무시무시하긴 하네...",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216338?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임/캐릭터별 실시간 투표/의견 공유 + 팬덤 활동 트래킹 앱",
+        "target_user": "20-30대 게이머/애니 팬, 팬덤 커뮤니티 활동가",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "직장인/학생의 가벼운 일상 스트레스 해소 및 공감 니즈",
+        "source_posts": [
+          {
+            "title": "분명 카공하러 나왔는데",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216339?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "맥날은 도대체 뭔깡이냐",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216334?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "예쁜 사람은 조금은 이상해도 돼",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216326?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "작은 건 신경 쓰지 마.manhwa",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75216323?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "하루 끝의 작은 감정(공감/웃음)을 30초 짤로 공유하는 일일 감정 카드 앱",
+        "target_user": "20-35세 직장인/학생, 스트레스 해소 수요층",
+        "urgency": "high",
+        "b2c_potential": "감성"
+      },
+      {
+        "signal": "실제 여행 경험의 감각적/감정적 후기 공유 욕구",
+        "source_posts": [
+          {
+            "title": "시코쿠 서부 투어 3일차 후기 - 우와지마 지옥의 역풍 우중 라이딩",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429949",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "여행지의 감정/감각(바람, 향기, 소리)을 태그로 정리하는 감각 여행 로그 앱",
+        "target_user": "20-40대 여행 애호가, 감성 여행 기록 선호층",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "관계/연애 선택의 시점과 방식에 대한 실질적 조언 수요",
+        "source_posts": [
+          {
+            "title": "일본인과 만날때 몇번째 데이트?만남때 고백하셨나요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/700240/read/7495",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "관계 단계별(만남→연애→결혼) 의사결정 가이드 + 커뮤니티 사례 공유 앱",
+        "target_user": "20-35세 미혼 남녀, 관계 고민층",
+        "urgency": "medium",
+        "b2c_potential": "관계"
+      },
+      {
+        "signal": "취미 자산(피규어, 게임기 등) 수집·관리·공유 커뮤니티",
+        "source_posts": [
+          {
+            "title": "반다이 초합금들 보통 마감제 재질 어떤거 쓰나요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/300085/read/30650696",
+            "source": "ruliweb"
+          },
+          {
+            "title": "가지고 있는 가장 오래된 콘솔 게임기 구동에 성공!",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429930",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "취미 수집품의 상태/가치 추적 및 소유자 커뮤니티(피규어, 게임기, 카드 등)",
+        "target_user": "20-40대 수집 취미인, 피규어/콘솔게임 애호가",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-16T08:00:47Z",
     "post_count": 80,
     "sources": [

@@ -1,102 +1,107 @@
 [
   {
-    "signal": "게임·하드웨어 구매 가이드 및 트러블슈팅 정보 분산",
+    "signal": "게임/애니메이션 팬덤의 일상 감정 공유 및 의사결정",
     "source_posts": [
       {
-        "title": "Ps5 슬림 세로 스탠드 샀는데 세워도될까요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/300426/read/30605468",
+        "title": "롤) 오늘 케이티 믿는다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216330?",
         "source": "ruliweb"
       },
       {
-        "title": "발로란트) 흐음.. 실행하면 메인 화면서 부터 뚝뚝 끊기고 멈추네..",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202954?",
+        "title": "롤) 비디디 오늘은 아구몬 만나고왔을까..?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216324?",
         "source": "ruliweb"
       },
       {
-        "title": "롤)리그의 T1은 젠지한테 상성이라...",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202952?",
+        "title": "림버스)로수 흉통 살까?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216332?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "메탈카드봇)타키 인기가 무시무시하긴 하네...",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216338?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임/하드웨어별 빠른 Q&A + 사용자 리뷰 큐레이션 플랫폼",
-    "target_user": "20-30대 게이머·하드웨어 초보자",
+    "idea_hint": "게임/캐릭터별 실시간 투표/의견 공유 + 팬덤 활동 트래킹 앱",
+    "target_user": "20-30대 게이머/애니 팬, 팬덤 커뮤니티 활동가",
     "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "여행지 로컬 정보 (맛집, 주차 등) 신뢰할 만한 팁 부족",
+    "signal": "직장인/학생의 가벼운 일상 스트레스 해소 및 공감 니즈",
     "source_posts": [
       {
-        "title": "청주공항 자동차 파킹 문의, 제주도 식당 추천받습니다.",
-        "url": "https://bbs.ruliweb.com/etcs/board/300260/read/30553113",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "지역별 초간단 여행 정보 Q&A (네이버 지도보다 빠르고 가벼운 UX)",
-    "target_user": "20-50대 여행 초보자, 로컬 정보 신뢰성 추구 사용자",
-    "urgency": "medium",
-    "b2c_potential": "여행/기타"
-  },
-  {
-    "signal": "PC부품·기술 사양 비교 및 구매 의사결정 가이드 수요",
-    "source_posts": [
-      {
-        "title": "당근 컴퓨터 13700kf+h610 VS 12100f+z690 추천좀",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202961?",
+        "title": "분명 카공하러 나왔는데",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216339?",
         "source": "ruliweb"
       },
       {
-        "title": "Ps5 슬림 세로 스탠드 샀는데 세워도될까요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/300426/read/30605468",
+        "title": "맥날은 도대체 뭔깡이냐",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216334?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "예쁜 사람은 조금은 이상해도 돼",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216326?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "작은 건 신경 쓰지 마.manhwa",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216323?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "제품 사양 AI 비교 + 가성비 추천 플랫폼 (PC부품·게이밍 기기 특화)",
-    "target_user": "20-40대 테크 초보자, 가성비 중시 구매자",
+    "idea_hint": "하루 끝의 작은 감정(공감/웃음)을 30초 짤로 공유하는 일일 감정 카드 앱",
+    "target_user": "20-35세 직장인/학생, 스트레스 해소 수요층",
     "urgency": "high",
-    "b2c_potential": "기타"
-  },
-  {
-    "signal": "일상의 재미있는 순간·감정 공유 후 재발견 불가능 (커뮤니티 내 분산)",
-    "source_posts": [
-      {
-        "title": "님들 갈매기가 닭강정 먹는 거 본적 있음?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202967?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "중국 웹 돌아다니면 볼 수 있는 거",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202965?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "이제 커피도 아이스로 마셔야겠구만",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202968?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "개인의 '일상 감성 모멘트' 자동 큐레이션·백업 앱 (Pinterest+개인 일기장)",
-    "target_user": "20-40대 직장인, 감성 콘텐츠 취향 사용자",
-    "urgency": "medium",
     "b2c_potential": "감성"
   },
   {
-    "signal": "빠른 실답변이 필요한 실생활 Q&A 플랫폼 부재 (지식인은 너무 복잡)",
+    "signal": "실제 여행 경험의 감각적/감정적 후기 공유 욕구",
     "source_posts": [
       {
-        "title": "수박 이런종 구매할수 없을꺼요?",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619432",
-        "source": "ruliweb"
-      },
+        "title": "시코쿠 서부 투어 3일차 후기 - 우와지마 지옥의 역풍 우중 라이딩",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429949",
+        "source": "dcinside"
+      }
+    ],
+    "idea_hint": "여행지의 감정/감각(바람, 향기, 소리)을 태그로 정리하는 감각 여행 로그 앱",
+    "target_user": "20-40대 여행 애호가, 감성 여행 기록 선호층",
+    "urgency": "medium",
+    "b2c_potential": "취미"
+  },
+  {
+    "signal": "관계/연애 선택의 시점과 방식에 대한 실질적 조언 수요",
+    "source_posts": [
       {
-        "title": "나 어디 아픈가",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75202955?",
+        "title": "일본인과 만날때 몇번째 데이트?만남때 고백하셨나요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/700240/read/7495",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "카톡·슬랙 같은 신속한 UX의 생활 Q&A (음식, 건강, 생활용품 특화)",
-    "target_user": "20-50대 실생활 정보 추구자",
+    "idea_hint": "관계 단계별(만남→연애→결혼) 의사결정 가이드 + 커뮤니티 사례 공유 앱",
+    "target_user": "20-35세 미혼 남녀, 관계 고민층",
     "urgency": "medium",
-    "b2c_potential": "건강"
+    "b2c_potential": "관계"
+  },
+  {
+    "signal": "취미 자산(피규어, 게임기 등) 수집·관리·공유 커뮤니티",
+    "source_posts": [
+      {
+        "title": "반다이 초합금들 보통 마감제 재질 어떤거 쓰나요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/300085/read/30650696",
+        "source": "ruliweb"
+      },
+      {
+        "title": "가지고 있는 가장 오래된 콘솔 게임기 구동에 성공!",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429930",
+        "source": "dcinside"
+      }
+    ],
+    "idea_hint": "취미 수집품의 상태/가치 추적 및 소유자 커뮤니티(피규어, 게임기, 카드 등)",
+    "target_user": "20-40대 수집 취미인, 피규어/콘솔게임 애호가",
+    "urgency": "medium",
+    "b2c_potential": "취미"
   }
 ]
