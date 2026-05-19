@@ -1,106 +1,116 @@
 [
   {
-    "signal": "게임/애니메이션 팬덤의 일상 감정 공유 및 의사결정",
+    "signal": "일상의 감정적 현실 공감 - 다이어트 현타, 관계 갈등, 사회성 불안",
     "source_posts": [
       {
-        "title": "롤) 오늘 케이티 믿는다",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216330?",
+        "title": "다이어트 하다가 오는 현타중 가장 쎈 현타",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240187?",
         "source": "ruliweb"
       },
       {
-        "title": "롤) 비디디 오늘은 아구몬 만나고왔을까..?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216324?",
-        "source": "ruliweb"
+        "title": "등산 데이트 중 혼자 가버리는 '등산 결별' 잇따라",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430496",
+        "source": "dcinside"
       },
       {
-        "title": "림버스)로수 흉통 살까?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216332?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "메탈카드봇)타키 인기가 무시무시하긴 하네...",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216338?",
+        "title": "근면성실하지만 대화에 능숙하지 못한 청년",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240182?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임/캐릭터별 실시간 투표/의견 공유 + 팬덤 활동 트래킹 앱",
-    "target_user": "20-30대 게이머/애니 팬, 팬덤 커뮤니티 활동가",
+    "idea_hint": "감정 카테고리별 공감 피드 + 댓글 커뮤니티 (감정 기반 SNS)",
+    "target_user": "20-30대 직장인, 일상 공감 추구층",
+    "urgency": "high",
+    "b2c_potential": "감성/관계"
+  },
+  {
+    "signal": "게임/취미 선택 고민 - 구매/플레이 결정 도움 필요",
+    "source_posts": [
+      {
+        "title": "다들 제미나이 나노바나나 pro 되시나요?",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619441",
+        "source": "ruliweb"
+      },
+      {
+        "title": "야만용사키우는데요",
+        "url": "https://bbs.ruliweb.com/etcs/board/185248/read/28492",
+        "source": "ruliweb"
+      },
+      {
+        "title": "호불호 갈리는 복장",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240185?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "게임/취미 선택 AI 추천 (3문 퀴즈 → 추천 매칭)",
+    "target_user": "게이머, 취미 선택 어려워하는 2-30대",
     "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "직장인/학생의 가벼운 일상 스트레스 해소 및 공감 니즈",
+    "signal": "경제 불안감 + 자산 관리 관심 - 빚, 투자, 재정 계획",
     "source_posts": [
       {
-        "title": "분명 카공하러 나왔는데",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216339?",
-        "source": "ruliweb"
+        "title": "1분기 가계 빛 역대 최대 빚 2000조' 육박, 역대 최대수치",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430484",
+        "source": "dcinside"
       },
       {
-        "title": "맥날은 도대체 뭔깡이냐",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216334?",
-        "source": "ruliweb"
+        "title": "월 120만원이면 日의대 충분…SKY보다 낫다는 '메디컬 유학'",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430492",
+        "source": "dcinside"
       },
       {
-        "title": "예쁜 사람은 조금은 이상해도 돼",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216326?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "작은 건 신경 쓰지 마.manhwa",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75216323?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "하루 끝의 작은 감정(공감/웃음)을 30초 짤로 공유하는 일일 감정 카드 앱",
-    "target_user": "20-35세 직장인/학생, 스트레스 해소 수요층",
-    "urgency": "high",
-    "b2c_potential": "감성"
-  },
-  {
-    "signal": "실제 여행 경험의 감각적/감정적 후기 공유 욕구",
-    "source_posts": [
-      {
-        "title": "시코쿠 서부 투어 3일차 후기 - 우와지마 지옥의 역풍 우중 라이딩",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429949",
+        "title": "5월 19일 시황",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430472",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "여행지의 감정/감각(바람, 향기, 소리)을 태그로 정리하는 감각 여행 로그 앱",
-    "target_user": "20-40대 여행 애호가, 감성 여행 기록 선호층",
-    "urgency": "medium",
-    "b2c_potential": "취미"
+    "idea_hint": "월별 지출 추적 + 목표 설정 + 간단한 투자 가이드 대시보드",
+    "target_user": "직장인, 금융 계획 관심층",
+    "urgency": "high",
+    "b2c_potential": "금융"
   },
   {
-    "signal": "관계/연애 선택의 시점과 방식에 대한 실질적 조언 수요",
+    "signal": "관계/결혼 선택 - 상대 선호도, 신랑감 기준 논의",
     "source_posts": [
       {
-        "title": "일본인과 만날때 몇번째 데이트?만남때 고백하셨나요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/700240/read/7495",
+        "title": "싱글벙글 대한민국 1등 신랑감 직업 순위",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430474",
+        "source": "dcinside"
+      },
+      {
+        "title": "등산 데이트 중 혼자 가버리는 '등산 결별' 잇따라",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430496",
+        "source": "dcinside"
+      },
+      {
+        "title": "여동생 뒷바라지 해서 의사 만든 오빠",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240187?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "관계 단계별(만남→연애→결혼) 의사결정 가이드 + 커뮤니티 사례 공유 앱",
-    "target_user": "20-35세 미혼 남녀, 관계 고민층",
+    "idea_hint": "데이트 상황별 팁 + 관계 고민 상담 매칭 플랫폼",
+    "target_user": "미혼 20-30대, 연애/결혼 관심층",
     "urgency": "medium",
     "b2c_potential": "관계"
   },
   {
-    "signal": "취미 자산(피규어, 게임기 등) 수집·관리·공유 커뮤니티",
+    "signal": "AI 활용 경험 공유 - 생성된 콘텐츠 피드백/큐레이션 니즈",
     "source_posts": [
       {
-        "title": "반다이 초합금들 보통 마감제 재질 어떤거 쓰나요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/300085/read/30650696",
+        "title": "마비m)후방) 선물? 받은 ai 결과물",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240191?",
         "source": "ruliweb"
       },
       {
-        "title": "가지고 있는 가장 오래된 콘솔 게임기 구동에 성공!",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=429930",
-        "source": "dcinside"
+        "title": "슬픈 ai 사용 예시",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240183?",
+        "source": "ruliweb"
       }
     ],
-    "idea_hint": "취미 수집품의 상태/가치 추적 및 소유자 커뮤니티(피규어, 게임기, 카드 등)",
-    "target_user": "20-40대 수집 취미인, 피규어/콘솔게임 애호가",
+    "idea_hint": "AI 생성 콘텐츠 갤러리 + 커뮤니티 피드백 (프롬프트 공유)",
+    "target_user": "AI 도구 사용 중인 2-40대",
     "urgency": "medium",
     "b2c_potential": "취미"
   }

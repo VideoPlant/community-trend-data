@@ -1,5 +1,132 @@
 [
   {
+    "collected_at": "2026-05-19T08:00:45Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "일상의 감정적 현실 공감 - 다이어트 현타, 관계 갈등, 사회성 불안",
+        "source_posts": [
+          {
+            "title": "다이어트 하다가 오는 현타중 가장 쎈 현타",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75240187?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "등산 데이트 중 혼자 가버리는 '등산 결별' 잇따라",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430496",
+            "source": "dcinside"
+          },
+          {
+            "title": "근면성실하지만 대화에 능숙하지 못한 청년",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75240182?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "감정 카테고리별 공감 피드 + 댓글 커뮤니티 (감정 기반 SNS)",
+        "target_user": "20-30대 직장인, 일상 공감 추구층",
+        "urgency": "high",
+        "b2c_potential": "감성/관계"
+      },
+      {
+        "signal": "게임/취미 선택 고민 - 구매/플레이 결정 도움 필요",
+        "source_posts": [
+          {
+            "title": "다들 제미나이 나노바나나 pro 되시나요?",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619441",
+            "source": "ruliweb"
+          },
+          {
+            "title": "야만용사키우는데요",
+            "url": "https://bbs.ruliweb.com/etcs/board/185248/read/28492",
+            "source": "ruliweb"
+          },
+          {
+            "title": "호불호 갈리는 복장",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75240185?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임/취미 선택 AI 추천 (3문 퀴즈 → 추천 매칭)",
+        "target_user": "게이머, 취미 선택 어려워하는 2-30대",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "경제 불안감 + 자산 관리 관심 - 빚, 투자, 재정 계획",
+        "source_posts": [
+          {
+            "title": "1분기 가계 빛 역대 최대 빚 2000조' 육박, 역대 최대수치",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430484",
+            "source": "dcinside"
+          },
+          {
+            "title": "월 120만원이면 日의대 충분…SKY보다 낫다는 '메디컬 유학'",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430492",
+            "source": "dcinside"
+          },
+          {
+            "title": "5월 19일 시황",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430472",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "월별 지출 추적 + 목표 설정 + 간단한 투자 가이드 대시보드",
+        "target_user": "직장인, 금융 계획 관심층",
+        "urgency": "high",
+        "b2c_potential": "금융"
+      },
+      {
+        "signal": "관계/결혼 선택 - 상대 선호도, 신랑감 기준 논의",
+        "source_posts": [
+          {
+            "title": "싱글벙글 대한민국 1등 신랑감 직업 순위",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430474",
+            "source": "dcinside"
+          },
+          {
+            "title": "등산 데이트 중 혼자 가버리는 '등산 결별' 잇따라",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430496",
+            "source": "dcinside"
+          },
+          {
+            "title": "여동생 뒷바라지 해서 의사 만든 오빠",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75240187?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "데이트 상황별 팁 + 관계 고민 상담 매칭 플랫폼",
+        "target_user": "미혼 20-30대, 연애/결혼 관심층",
+        "urgency": "medium",
+        "b2c_potential": "관계"
+      },
+      {
+        "signal": "AI 활용 경험 공유 - 생성된 콘텐츠 피드백/큐레이션 니즈",
+        "source_posts": [
+          {
+            "title": "마비m)후방) 선물? 받은 ai 결과물",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75240191?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "슬픈 ai 사용 예시",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75240183?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "AI 생성 콘텐츠 갤러리 + 커뮤니티 피드백 (프롬프트 공유)",
+        "target_user": "AI 도구 사용 중인 2-40대",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-18T08:00:27Z",
     "post_count": 80,
     "sources": [
