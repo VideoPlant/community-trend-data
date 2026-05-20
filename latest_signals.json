@@ -1,117 +1,107 @@
 [
   {
-    "signal": "일상의 감정적 현실 공감 - 다이어트 현타, 관계 갈등, 사회성 불안",
+    "signal": "개인투자자의 감정적 의사결정 기록 및 회고 니즈 (심리 추적)",
     "source_posts": [
       {
-        "title": "다이어트 하다가 오는 현타중 가장 쎈 현타",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240187?",
+        "title": "주식) 삼전 무서워서 뺐음...",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253020?",
         "source": "ruliweb"
       },
       {
-        "title": "등산 데이트 중 혼자 가버리는 '등산 결별' 잇따라",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430496",
-        "source": "dcinside"
-      },
-      {
-        "title": "근면성실하지만 대화에 능숙하지 못한 청년",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240182?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "감정 카테고리별 공감 피드 + 댓글 커뮤니티 (감정 기반 SNS)",
-    "target_user": "20-30대 직장인, 일상 공감 추구층",
-    "urgency": "high",
-    "b2c_potential": "감성/관계"
-  },
-  {
-    "signal": "게임/취미 선택 고민 - 구매/플레이 결정 도움 필요",
-    "source_posts": [
-      {
-        "title": "다들 제미나이 나노바나나 pro 되시나요?",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619441",
+        "title": "우정잉이 주식 공부 따로 안하고 그냥 우량주 사서 묻어두는 이유.jpg",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253018?",
         "source": "ruliweb"
       },
       {
-        "title": "야만용사키우는데요",
-        "url": "https://bbs.ruliweb.com/etcs/board/185248/read/28492",
-        "source": "ruliweb"
-      },
-      {
-        "title": "호불호 갈리는 복장",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240185?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "게임/취미 선택 AI 추천 (3문 퀴즈 → 추천 매칭)",
-    "target_user": "게이머, 취미 선택 어려워하는 2-30대",
-    "urgency": "high",
-    "b2c_potential": "취미"
-  },
-  {
-    "signal": "경제 불안감 + 자산 관리 관심 - 빚, 투자, 재정 계획",
-    "source_posts": [
-      {
-        "title": "1분기 가계 빛 역대 최대 빚 2000조' 육박, 역대 최대수치",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430484",
-        "source": "dcinside"
-      },
-      {
-        "title": "월 120만원이면 日의대 충분…SKY보다 낫다는 '메디컬 유학'",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430492",
-        "source": "dcinside"
-      },
-      {
-        "title": "5월 19일 시황",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430472",
+        "title": "'목표주가 100만 원' 재평가 커진다, 자회사도 나스닥 상장?.webp",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430788",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "월별 지출 추적 + 목표 설정 + 간단한 투자 가이드 대시보드",
-    "target_user": "직장인, 금융 계획 관심층",
+    "idea_hint": "투자 일지 앱: 매매 때마다 감정·이유를 기록하고 6개월 뒤 자신의 판단을 회고하는 심리 추적 플랫폼",
+    "target_user": "2030대 개인투자자, 주식 커뮤니티 활동 사용자",
     "urgency": "high",
     "b2c_potential": "금융"
   },
   {
-    "signal": "관계/결혼 선택 - 상대 선호도, 신랑감 기준 논의",
+    "signal": "일상의 소소하고 따뜻한 순간을 타인과 공유·공감받고 싶은 욕구",
     "source_posts": [
       {
-        "title": "싱글벙글 대한민국 1등 신랑감 직업 순위",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430474",
-        "source": "dcinside"
+        "title": "딸이 여자 친구들이랑 여행 갔다 왔다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253014?",
+        "source": "ruliweb"
       },
       {
-        "title": "등산 데이트 중 혼자 가버리는 '등산 결별' 잇따라",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430496",
-        "source": "dcinside"
+        "title": "한국 방문 준비를 마친 일본인",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253022?",
+        "source": "ruliweb"
       },
       {
-        "title": "여동생 뒷바라지 해서 의사 만든 오빠",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240187?",
+        "title": "내 살다살다 귤 바이럴을 당해보네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253013?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "데이트 상황별 팁 + 관계 고민 상담 매칭 플랫폼",
-    "target_user": "미혼 20-30대, 연애/결혼 관심층",
+    "idea_hint": "감정 피드 앱: 한 줄 글+사진으로 일상의 재미있는 순간을 공유하면, 같은 감정을 느낀 사람들이 공감·댓글하는 감성 커뮤니티",
+    "target_user": "20-30대 직장인, 대학생, 감성 커뮤니티 활동층",
     "urgency": "medium",
-    "b2c_potential": "관계"
+    "b2c_potential": "감성/관계"
   },
   {
-    "signal": "AI 활용 경험 공유 - 생성된 콘텐츠 피드백/큐레이션 니즈",
+    "signal": "취미 커뮤니티(피규어, 건담, 게임) 내 서비스 의뢰 및 정보 공유 활동",
     "source_posts": [
       {
-        "title": "마비m)후방) 선물? 받은 ai 결과물",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240191?",
+        "title": "나벨 피규어 도색?의뢰를 준비중에 있습니다",
+        "url": "https://bbs.ruliweb.com/etcs/board/102230/read/10061504",
         "source": "ruliweb"
       },
       {
-        "title": "슬픈 ai 사용 예시",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75240183?",
+        "title": "건담) 아티팩트 프로 제품 깔은 이쁜데",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253012?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "블루아카) ai) 오토기랑 내기하는 Manhwa",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253028?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "AI 생성 콘텐츠 갤러리 + 커뮤니티 피드백 (프롬프트 공유)",
-    "target_user": "AI 도구 사용 중인 2-40대",
+    "idea_hint": "취미 마이크로 마켓: 피규어 도색·커스터마이징 의뢰를 로컬 장인과 매칭하는 커뮤니티 기반 마켓 (결제·평점 포함)",
+    "target_user": "20-40대 취미 수집가, 피규어·건담·게임 매니아",
     "urgency": "medium",
     "b2c_potential": "취미"
+  },
+  {
+    "signal": "일상용품 구매 선택 시 커뮤니티 추천 의존 및 비교 필요",
+    "source_posts": [
+      {
+        "title": "정수기 어디꺼 많이쓰나요?",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619445",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "제품 추천 가이드: 정수기·세제·청소기 등 카테고리별 제품을 사용자 리뷰·순위·가격으로 비교하는 초간단 큐레이션 서비스",
+    "target_user": "30-45세 주부, 신혼부부, 실용성 중심 구매층",
+    "urgency": "medium",
+    "b2c_potential": "기타"
+  },
+  {
+    "signal": "일상 업무의 자동화·루틴화로 시간과 스트레스 절감 욕구",
+    "source_posts": [
+      {
+        "title": "식사 자동화 프로토콜",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253016?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "차 미리 세차 안해놔서 너무나도 분했던 일",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253015?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "라이프해킹 커뮤니티: 음식 배달 자동화, 세차 리마인더, 정기 구매 설정 등 일상 루틴을 단순화하는 팁들을 공유·저장하는 플랫폼",
+    "target_user": "바쁜 20-40대 직장인, 시간 효율성을 중시하는 층",
+    "urgency": "medium",
+    "b2c_potential": "건강"
   }
 ]
