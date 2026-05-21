@@ -1,107 +1,102 @@
 [
   {
-    "signal": "개인투자자의 감정적 의사결정 기록 및 회고 니즈 (심리 추적)",
+    "signal": "게임 플레이어의 실시간 정보 부족 - 뽑기 타이밍, 공략, 이벤트 가이드 필요",
     "source_posts": [
       {
-        "title": "주식) 삼전 무서워서 뺐음...",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253020?",
+        "title": "플레이엑스포 내일 가는데 볼만한 부스 머 있을까요? (주목적은 던파)",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619449",
         "source": "ruliweb"
       },
       {
-        "title": "우정잉이 주식 공부 따로 안하고 그냥 우량주 사서 묻어두는 이유.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253018?",
+        "title": "클리어 하신분들 초보 질문입니다~~",
+        "url": "https://bbs.ruliweb.com/etcs/board/104427/read/9466929",
         "source": "ruliweb"
       },
       {
-        "title": "'목표주가 100만 원' 재평가 커진다, 자회사도 나스닥 상장?.webp",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=430788",
+        "title": "고수님들 뽑기 질문입니다",
+        "url": "https://bbs.ruliweb.com/etcs/board/186606/read/1169",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "게임별 커뮤니티 Q&A + 뽑기/이벤트 실시간 가이드 + 공략 DB 통합 플랫폼",
+    "target_user": "20-30대 캐주얼·코어 게이머",
+    "urgency": "high",
+    "b2c_potential": "취미"
+  },
+  {
+    "signal": "직장인의 심리적 불안감 - 퇴사 후 생활 고민, 커리어 전환 경험담 갈구",
+    "source_posts": [
+      {
+        "title": "로또 되도 퇴사 못하는 이유",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265109?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "군인, 3월 지급 성과금 탓에 고유가지원금 누락 발생",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431073",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "투자 일지 앱: 매매 때마다 감정·이유를 기록하고 6개월 뒤 자신의 판단을 회고하는 심리 추적 플랫폼",
-    "target_user": "2030대 개인투자자, 주식 커뮤니티 활동 사용자",
+    "idea_hint": "실제 퇴사자/커리어 전환자의 경험담 공유 + 월급 데이터베이스 + 전직자 상담 매칭",
+    "target_user": "25-45세 직장인 (퇴직·전직 고민층)",
+    "urgency": "high",
+    "b2c_potential": "감성"
+  },
+  {
+    "signal": "초보 투자자의 정보 부족 - 신규 금융상품의 실제 리스크·손실 가능성 우려",
+    "source_posts": [
+      {
+        "title": "정부가 미리 '손실 부담', 국민성장펀드 주의할 점은?...webp[114]잡담15:45",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431057",
+        "source": "dcinside"
+      },
+      {
+        "title": "삼성전자 주주단체 \"잠정합의안 위법…비준시 무효 가처분\"[219]주식15:20",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431049",
+        "source": "dcinside"
+      }
+    ],
+    "idea_hint": "신규 펀드·상품 리스크 분석 + 손실 시뮬레이션 + 초보자 가이드 + 실제 손실사례 DB",
+    "target_user": "20-40대 초보 투자자 (금융 문맹층)",
     "urgency": "high",
     "b2c_potential": "금융"
   },
   {
-    "signal": "일상의 소소하고 따뜻한 순간을 타인과 공유·공감받고 싶은 욕구",
+    "signal": "일상 서비스(프린트·카페·배송)의 숨겨진 위험 - 소비자 보호 정보 부재",
     "source_posts": [
       {
-        "title": "딸이 여자 친구들이랑 여행 갔다 왔다",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253014?",
+        "title": "와 프린트 카페 조심해야겠네 ㄷㄷ;",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265110?",
         "source": "ruliweb"
       },
       {
-        "title": "한국 방문 준비를 마친 일본인",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253022?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "내 살다살다 귤 바이럴을 당해보네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253013?",
-        "source": "ruliweb"
+        "title": "30대 한녀, 수영장 다이빙 강습 중 전신마비[398]무출산15:35",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431054",
+        "source": "dcinside"
       }
     ],
-    "idea_hint": "감정 피드 앱: 한 줄 글+사진으로 일상의 재미있는 순간을 공유하면, 같은 감정을 느낀 사람들이 공감·댓글하는 감성 커뮤니티",
-    "target_user": "20-30대 직장인, 대학생, 감성 커뮤니티 활동층",
+    "idea_hint": "소상공인 서비스(프린트·카페·학원) 안전·위험 리뷰 + 피해 경험담 + 소비자 보호 정보 큐레이션",
+    "target_user": "20-35세 MZ 직장인·대학생",
     "urgency": "medium",
-    "b2c_potential": "감성/관계"
+    "b2c_potential": "관계"
   },
   {
-    "signal": "취미 커뮤니티(피규어, 건담, 게임) 내 서비스 의뢰 및 정보 공유 활동",
+    "signal": "버튜버·인방 팬덤의 실시간 정보 격차 - 라이브 방송·합방 놓치는 FOMO",
     "source_posts": [
       {
-        "title": "나벨 피규어 도색?의뢰를 준비중에 있습니다",
-        "url": "https://bbs.ruliweb.com/etcs/board/102230/read/10061504",
+        "title": "버튜버) 니지홀로 슬더스2 합방 또한다!",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265113?",
         "source": "ruliweb"
       },
       {
-        "title": "건담) 아티팩트 프로 제품 깔은 이쁜데",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253012?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "블루아카) ai) 오토기랑 내기하는 Manhwa",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253028?",
+        "title": "버튜버) 네이버앱 추천 인증간다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265115?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "취미 마이크로 마켓: 피규어 도색·커스터마이징 의뢰를 로컬 장인과 매칭하는 커뮤니티 기반 마켓 (결제·평점 포함)",
-    "target_user": "20-40대 취미 수집가, 피규어·건담·게임 매니아",
+    "idea_hint": "팔로우 버튜버 라이브·합방 실시간 알림 + 팬덤 채팅 커뮤니티 + 영상 타임스탬프 클립 공유",
+    "target_user": "10-25세 여성 팬덤층 (버튜버·인방 주시청자)",
     "urgency": "medium",
-    "b2c_potential": "취미"
-  },
-  {
-    "signal": "일상용품 구매 선택 시 커뮤니티 추천 의존 및 비교 필요",
-    "source_posts": [
-      {
-        "title": "정수기 어디꺼 많이쓰나요?",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619445",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "제품 추천 가이드: 정수기·세제·청소기 등 카테고리별 제품을 사용자 리뷰·순위·가격으로 비교하는 초간단 큐레이션 서비스",
-    "target_user": "30-45세 주부, 신혼부부, 실용성 중심 구매층",
-    "urgency": "medium",
-    "b2c_potential": "기타"
-  },
-  {
-    "signal": "일상 업무의 자동화·루틴화로 시간과 스트레스 절감 욕구",
-    "source_posts": [
-      {
-        "title": "식사 자동화 프로토콜",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253016?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "차 미리 세차 안해놔서 너무나도 분했던 일",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75253015?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "라이프해킹 커뮤니티: 음식 배달 자동화, 세차 리마인더, 정기 구매 설정 등 일상 루틴을 단순화하는 팁들을 공유·저장하는 플랫폼",
-    "target_user": "바쁜 20-40대 직장인, 시간 효율성을 중시하는 층",
-    "urgency": "medium",
-    "b2c_potential": "건강"
+    "b2c_potential": "감성"
   }
 ]
