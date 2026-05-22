@@ -1,5 +1,117 @@
 [
   {
+    "collected_at": "2026-05-22T08:00:52Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "부동산 금리 지역 차등화 + FIRE 관심층의 금융 정보 공백",
+        "source_posts": [
+          {
+            "title": "서울 집 사면 이자 더 낸다… 은행 주담대 금리 '지역 차등화'",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431350",
+            "source": "dcinside"
+          },
+          {
+            "title": "3월 서울아파트 전셋값 역대최고치 경신..8개월 연속 상승[78]코스피16:20",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431344",
+            "source": "dcinside"
+          },
+          {
+            "title": "삼성전자 주택안정 대출제도와 부동산 파이어족 가능성[73]로스트아크15:50",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431335",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "지역·은행별 금리/전세값 비교 + 조기상환 계산기 + 부동산 투자 시뮬레이터 (매물 스크래핑 + 공시지가 연동)",
+        "target_user": "20-40대 직장인, 집 구매/전세 계획자, FIRE 관심층",
+        "urgency": "high",
+        "b2c_potential": "금융"
+      },
+      {
+        "signal": "직장인 퇴근 후 미니 취미/스트레스 해소 루틴 공유 욕구",
+        "source_posts": [
+          {
+            "title": "빨리 퇴근하고 딸치고 십다..",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75277272?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "내일 일페를 갈까 플엑을 갈까",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75277269?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "퇴근 후 15분 미니게임/명상/운동 추천 + 직장인 커뮤니티 (오늘의 스트레스 해소법 공유)",
+        "target_user": "20-40대 직장인 (야근/피로)",
+        "urgency": "high",
+        "b2c_potential": "취미/건강"
+      },
+      {
+        "signal": "게임 과다 공급 시대 '이 게임 해봐야 하나?' 선택장애",
+        "source_posts": [
+          {
+            "title": "구형 쿤타치 어디서 얻을 수 있을까요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/100647/read/9426180",
+            "source": "ruliweb"
+          },
+          {
+            "title": "하쿠노는 기간한정 없이 프포소환 가능한가요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/300557/read/2675149",
+            "source": "ruliweb"
+          },
+          {
+            "title": "[젠레스] 이 겜 모드 쓰는 사람들 많아여?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75277270?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "내일 일페를 갈까 플엑을 갈까",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75277269?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임 비교 플랫폼 (플레이타임/난이도/커뮤니티 활성도/P2W 정도 표시) + 취향 기반 추천 알고리즘",
+        "target_user": "20-35대 캐주얼~하드코어 게이머",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "AI 시대 크리에이터(일러스트레이터, 작가)의 '생존 전략' 갈등",
+        "source_posts": [
+          {
+            "title": "AI때문에 그림쟁이들이 손에서 펜을 놓고있음",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75277260?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "AI 보조 도구 아닌 '크리에이터 커뮤니티' (AI 시대 스킬업/포트폴리오 빌딩 가이드 + 의뢰 매칭)",
+        "target_user": "창작자 (일러스트레이터, 웹툰작가, 음악가 등)",
+        "urgency": "high",
+        "b2c_potential": "교육/커뮤니티"
+      },
+      {
+        "signal": "로컬 무료나눔/공동구매 커뮤니티 요구 (당근마켓 대안 니즈)",
+        "source_posts": [
+          {
+            "title": "8500 짜리 무료나눔 해달라는 당근 유저",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75277268?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "동네 기반 무료나눔 + 공동구매 플랫폼 (환경 인식 + 신뢰도 시스템 강화)",
+        "target_user": "20-45대 환경 인식 소비자, 생활용품 필요층",
+        "urgency": "medium",
+        "b2c_potential": "커뮤니티"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-21T08:00:47Z",
     "post_count": 80,
     "sources": [

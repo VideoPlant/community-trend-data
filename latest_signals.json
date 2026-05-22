@@ -1,102 +1,102 @@
 [
   {
-    "signal": "게임 플레이어의 실시간 정보 부족 - 뽑기 타이밍, 공략, 이벤트 가이드 필요",
+    "signal": "부동산 금리 지역 차등화 + FIRE 관심층의 금융 정보 공백",
     "source_posts": [
       {
-        "title": "플레이엑스포 내일 가는데 볼만한 부스 머 있을까요? (주목적은 던파)",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619449",
-        "source": "ruliweb"
-      },
-      {
-        "title": "클리어 하신분들 초보 질문입니다~~",
-        "url": "https://bbs.ruliweb.com/etcs/board/104427/read/9466929",
-        "source": "ruliweb"
-      },
-      {
-        "title": "고수님들 뽑기 질문입니다",
-        "url": "https://bbs.ruliweb.com/etcs/board/186606/read/1169",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "게임별 커뮤니티 Q&A + 뽑기/이벤트 실시간 가이드 + 공략 DB 통합 플랫폼",
-    "target_user": "20-30대 캐주얼·코어 게이머",
-    "urgency": "high",
-    "b2c_potential": "취미"
-  },
-  {
-    "signal": "직장인의 심리적 불안감 - 퇴사 후 생활 고민, 커리어 전환 경험담 갈구",
-    "source_posts": [
-      {
-        "title": "로또 되도 퇴사 못하는 이유",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265109?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "군인, 3월 지급 성과금 탓에 고유가지원금 누락 발생",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431073",
-        "source": "dcinside"
-      }
-    ],
-    "idea_hint": "실제 퇴사자/커리어 전환자의 경험담 공유 + 월급 데이터베이스 + 전직자 상담 매칭",
-    "target_user": "25-45세 직장인 (퇴직·전직 고민층)",
-    "urgency": "high",
-    "b2c_potential": "감성"
-  },
-  {
-    "signal": "초보 투자자의 정보 부족 - 신규 금융상품의 실제 리스크·손실 가능성 우려",
-    "source_posts": [
-      {
-        "title": "정부가 미리 '손실 부담', 국민성장펀드 주의할 점은?...webp[114]잡담15:45",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431057",
+        "title": "서울 집 사면 이자 더 낸다… 은행 주담대 금리 '지역 차등화'",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431350",
         "source": "dcinside"
       },
       {
-        "title": "삼성전자 주주단체 \"잠정합의안 위법…비준시 무효 가처분\"[219]주식15:20",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431049",
+        "title": "3월 서울아파트 전셋값 역대최고치 경신..8개월 연속 상승[78]코스피16:20",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431344",
+        "source": "dcinside"
+      },
+      {
+        "title": "삼성전자 주택안정 대출제도와 부동산 파이어족 가능성[73]로스트아크15:50",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431335",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "신규 펀드·상품 리스크 분석 + 손실 시뮬레이션 + 초보자 가이드 + 실제 손실사례 DB",
-    "target_user": "20-40대 초보 투자자 (금융 문맹층)",
+    "idea_hint": "지역·은행별 금리/전세값 비교 + 조기상환 계산기 + 부동산 투자 시뮬레이터 (매물 스크래핑 + 공시지가 연동)",
+    "target_user": "20-40대 직장인, 집 구매/전세 계획자, FIRE 관심층",
     "urgency": "high",
     "b2c_potential": "금융"
   },
   {
-    "signal": "일상 서비스(프린트·카페·배송)의 숨겨진 위험 - 소비자 보호 정보 부재",
+    "signal": "직장인 퇴근 후 미니 취미/스트레스 해소 루틴 공유 욕구",
     "source_posts": [
       {
-        "title": "와 프린트 카페 조심해야겠네 ㄷㄷ;",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265110?",
+        "title": "빨리 퇴근하고 딸치고 십다..",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277272?",
         "source": "ruliweb"
       },
       {
-        "title": "30대 한녀, 수영장 다이빙 강습 중 전신마비[398]무출산15:35",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431054",
-        "source": "dcinside"
+        "title": "내일 일페를 갈까 플엑을 갈까",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277269?",
+        "source": "ruliweb"
       }
     ],
-    "idea_hint": "소상공인 서비스(프린트·카페·학원) 안전·위험 리뷰 + 피해 경험담 + 소비자 보호 정보 큐레이션",
-    "target_user": "20-35세 MZ 직장인·대학생",
-    "urgency": "medium",
-    "b2c_potential": "관계"
+    "idea_hint": "퇴근 후 15분 미니게임/명상/운동 추천 + 직장인 커뮤니티 (오늘의 스트레스 해소법 공유)",
+    "target_user": "20-40대 직장인 (야근/피로)",
+    "urgency": "high",
+    "b2c_potential": "취미/건강"
   },
   {
-    "signal": "버튜버·인방 팬덤의 실시간 정보 격차 - 라이브 방송·합방 놓치는 FOMO",
+    "signal": "게임 과다 공급 시대 '이 게임 해봐야 하나?' 선택장애",
     "source_posts": [
       {
-        "title": "버튜버) 니지홀로 슬더스2 합방 또한다!",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265113?",
+        "title": "구형 쿤타치 어디서 얻을 수 있을까요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/100647/read/9426180",
         "source": "ruliweb"
       },
       {
-        "title": "버튜버) 네이버앱 추천 인증간다",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75265115?",
+        "title": "하쿠노는 기간한정 없이 프포소환 가능한가요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/300557/read/2675149",
+        "source": "ruliweb"
+      },
+      {
+        "title": "[젠레스] 이 겜 모드 쓰는 사람들 많아여?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277270?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "내일 일페를 갈까 플엑을 갈까",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277269?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "팔로우 버튜버 라이브·합방 실시간 알림 + 팬덤 채팅 커뮤니티 + 영상 타임스탬프 클립 공유",
-    "target_user": "10-25세 여성 팬덤층 (버튜버·인방 주시청자)",
+    "idea_hint": "게임 비교 플랫폼 (플레이타임/난이도/커뮤니티 활성도/P2W 정도 표시) + 취향 기반 추천 알고리즘",
+    "target_user": "20-35대 캐주얼~하드코어 게이머",
     "urgency": "medium",
-    "b2c_potential": "감성"
+    "b2c_potential": "취미"
+  },
+  {
+    "signal": "AI 시대 크리에이터(일러스트레이터, 작가)의 '생존 전략' 갈등",
+    "source_posts": [
+      {
+        "title": "AI때문에 그림쟁이들이 손에서 펜을 놓고있음",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277260?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "AI 보조 도구 아닌 '크리에이터 커뮤니티' (AI 시대 스킬업/포트폴리오 빌딩 가이드 + 의뢰 매칭)",
+    "target_user": "창작자 (일러스트레이터, 웹툰작가, 음악가 등)",
+    "urgency": "high",
+    "b2c_potential": "교육/커뮤니티"
+  },
+  {
+    "signal": "로컬 무료나눔/공동구매 커뮤니티 요구 (당근마켓 대안 니즈)",
+    "source_posts": [
+      {
+        "title": "8500 짜리 무료나눔 해달라는 당근 유저",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277268?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "동네 기반 무료나눔 + 공동구매 플랫폼 (환경 인식 + 신뢰도 시스템 강화)",
+    "target_user": "20-45대 환경 인식 소비자, 생활용품 필요층",
+    "urgency": "medium",
+    "b2c_potential": "커뮤니티"
   }
 ]
