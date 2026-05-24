@@ -1,5 +1,117 @@
 [
   {
+    "collected_at": "2026-05-24T08:01:07Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "일상 감정·경험 공유 커뮤니티 니즈 (싱글벙글 콘셉트)",
+        "source_posts": [
+          {
+            "title": "싱글벙글 10년만에 재회한 형과의 만남은 최악이었다",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431772",
+            "source": "dcinside"
+          },
+          {
+            "title": "싱글벙글 일본, 장어 완전 양식 성공[425]싱글벙글 지구촌",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431762",
+            "source": "dcinside"
+          },
+          {
+            "title": "스압 주의)) 같이 도쿄 시계구경 할레? \"세이코 뮤지엄\" [1,2]",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431769",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "감정 일기 + SNS 피드: 일상의 소소한 경험을 감정 이모지·태그와 함께 공유하고 공감받는 모바일 앱",
+        "target_user": "20-40대 직장인 및 여성, 일상의 감정 공유·스트레스 해소 원하는 사람",
+        "urgency": "high",
+        "b2c_potential": "감성/관계"
+      },
+      {
+        "signal": "직장인 스트레스·현타 익명 상담 커뮤니티 니즈",
+        "source_posts": [
+          {
+            "title": "성과급 때문에 전문직도 현타온 블라인드[482]중소기업",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431754",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "직급·직무별 익명 고민 게시판: 성과급, 인간관계, 커리어 고민을 익명으로 나누고 경험자 조언받는 플랫폼",
+        "target_user": "20-40대 직장인·전문직, 스트레스 해소 및 경력 조언 원하는 사람",
+        "urgency": "high",
+        "b2c_potential": "건강/심리"
+      },
+      {
+        "signal": "게임별 깊이 있는 공략·팬 커뮤니티 니즈",
+        "source_posts": [
+          {
+            "title": "블루아카)팬라이트가 민폐될까봐 걱정됬던 선샌니",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75301437?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "블루아카) 사오리 +1 스택",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75301435?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "롤) dns가 과연 1시간 넘게 버틸 수 있을까",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75301432?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "리버스 바하무트 개 주변에 붉은 구체",
+            "url": "https://bbs.ruliweb.com/etcs/board/185327/read/25378",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 전문 위키+팬 커뮤니티 앱: 특정 게임(롤, 블루아카, FF7)의 공략·빌드·스택 정보 + 감정적 팬 커뮤니티 통합",
+        "target_user": "10-40대 게이머, 게임을 깊이 있게 즐기는 코어 유저",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "관심사 기반 여행·모임 매칭 니즈",
+        "source_posts": [
+          {
+            "title": "스압 주의)) 같이 도쿄 시계구경 할레? \"세이코 뮤지엄\" [1,2]",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431769",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "공동 관심사 기반 여행·모임 매칭 앱: 영화, 게임, 여행 취향이 같은 사람끼리 함께할 동료를 찾고 연결",
+        "target_user": "20-30대 여행·취미 좋아하는 사람, 혼자가 아닌 함께 즐기고 싶은 사람",
+        "urgency": "medium",
+        "b2c_potential": "관계/취미"
+      },
+      {
+        "signal": "프리미엄 취미(위스키·경마 등) 정보 공유 커뮤니티 니즈",
+        "source_posts": [
+          {
+            "title": "위바?리) 나가하마 증류소 2회차 (feat. 노미호다이)[30]위스키",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431744",
+            "source": "dcinside"
+          },
+          {
+            "title": "말딸,경마) 나는 로망을 좋아하고 추구한다.",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75301440?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "프리미엄 취미 큐레이션 플랫폼: 위스키·경마·컬렉팅 등의 고급 취미 정보, 경험담, 장소 추천을 깊이 있게 공유",
+        "target_user": "30-50대 고소득층, 취미를 진지하게 깊이 있게 추구하는 사람",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-23T08:00:55Z",
     "post_count": 80,
     "sources": [
@@ -2526,66 +2638,6 @@
         "target_user": "20-50대 운빨 관심층, 심리적 위로 추구층",
         "urgency": "low",
         "b2c_potential": "관계/심리"
-      }
-    ]
-  },
-  {
-    "collected_at": "2026-04-30T08:00:00Z",
-    "post_count": 80,
-    "sources": [
-      "clien",
-      "dcinside",
-      "ruliweb",
-      "todayhumor"
-    ],
-    "signals": [
-      {
-        "signal": "관계/성격 호불호 지속적 토론 — 상대방 이해 및 궁합에 대한 관심 높음",
-        "source_posts": [
-          "부인이 야한 콘텐츠 크리에이터면 어떨 거 같음?",
-          "호불호 갈리는 톰보이시한 여자친구의 미래",
-          "인방] 지인중 방송하는 사람이 두명인데..."
-        ],
-        "idea_hint": "성격 유형 테스트 → 관계 궁합/이해도 분석 AI (직장코드 유형 테스트 확장)",
-        "target_user": "20-30대 싱글/연애 커플",
-        "urgency": "high",
-        "b2c_potential": "관계"
-      },
-      {
-        "signal": "게임 커뮤니티 열정 + 지역 모임/오프라인 연결 욕구",
-        "source_posts": [
-          "오버워치) 흔한 탱커들의 유대감.mp4",
-          "게임 토론",
-          "인방] 지인중 방송하는 사람이 두명인데..."
-        ],
-        "idea_hint": "게임/취미별 로컬 모임 매칭 플랫폼 (온라인 커뮤니티 → 오프라인 모임 연결)",
-        "target_user": "20-30대 게임/취미 동호인",
-        "urgency": "medium",
-        "b2c_potential": "취미"
-      },
-      {
-        "signal": "특정 직업(게임개발자, 크리에이터, BJ 등) 경험담 & 현실 공유에 대한 관심",
-        "source_posts": [
-          "싱글벙글 블루아카이브 퇴사자들이 만든 게임 근황",
-          "60억 혈세 투입했는데 논란 터진 K-인디게임 지원 사업",
-          "살아있는 힙합. 빅뱅 탑이 휴가가 필요없는 이유"
-        ],
-        "idea_hint": "게임개발/크리에이터/스트리머 전문 경험담 플랫폼 (직업별 멘토링 & 커뮤니티)",
-        "target_user": "게임개발자, 크리에이터, 신입 직무 변환 고민자",
-        "urgency": "medium",
-        "b2c_potential": "직업/감성"
-      },
-      {
-        "signal": "일상 작은 선택/루틴 결정에 대한 커뮤니티 의견 수집",
-        "source_posts": [
-          "저녁 피자vs카레",
-          "내일 와야겠다..",
-          "원룸 커튼 떨어짐."
-        ],
-        "idea_hint": "기분/날씨/시간/심리 맥락을 읽고 저녁 활동/메뉴/결정 조언하는 AI",
-        "target_user": "20-30대 직장인/대학생",
-        "urgency": "medium",
-        "b2c_potential": "감성"
       }
     ]
   }

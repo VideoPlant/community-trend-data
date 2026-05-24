@@ -1,102 +1,102 @@
 [
   {
-    "signal": "부동산 금리 지역 차등화 + FIRE 관심층의 금융 정보 공백",
+    "signal": "일상 감정·경험 공유 커뮤니티 니즈 (싱글벙글 콘셉트)",
     "source_posts": [
       {
-        "title": "서울 집 사면 이자 더 낸다… 은행 주담대 금리 '지역 차등화'",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431350",
+        "title": "싱글벙글 10년만에 재회한 형과의 만남은 최악이었다",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431772",
         "source": "dcinside"
       },
       {
-        "title": "3월 서울아파트 전셋값 역대최고치 경신..8개월 연속 상승[78]코스피16:20",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431344",
+        "title": "싱글벙글 일본, 장어 완전 양식 성공[425]싱글벙글 지구촌",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431762",
         "source": "dcinside"
       },
       {
-        "title": "삼성전자 주택안정 대출제도와 부동산 파이어족 가능성[73]로스트아크15:50",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431335",
+        "title": "스압 주의)) 같이 도쿄 시계구경 할레? \"세이코 뮤지엄\" [1,2]",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431769",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "지역·은행별 금리/전세값 비교 + 조기상환 계산기 + 부동산 투자 시뮬레이터 (매물 스크래핑 + 공시지가 연동)",
-    "target_user": "20-40대 직장인, 집 구매/전세 계획자, FIRE 관심층",
+    "idea_hint": "감정 일기 + SNS 피드: 일상의 소소한 경험을 감정 이모지·태그와 함께 공유하고 공감받는 모바일 앱",
+    "target_user": "20-40대 직장인 및 여성, 일상의 감정 공유·스트레스 해소 원하는 사람",
     "urgency": "high",
-    "b2c_potential": "금융"
+    "b2c_potential": "감성/관계"
   },
   {
-    "signal": "직장인 퇴근 후 미니 취미/스트레스 해소 루틴 공유 욕구",
+    "signal": "직장인 스트레스·현타 익명 상담 커뮤니티 니즈",
     "source_posts": [
       {
-        "title": "빨리 퇴근하고 딸치고 십다..",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277272?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "내일 일페를 갈까 플엑을 갈까",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277269?",
-        "source": "ruliweb"
+        "title": "성과급 때문에 전문직도 현타온 블라인드[482]중소기업",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431754",
+        "source": "dcinside"
       }
     ],
-    "idea_hint": "퇴근 후 15분 미니게임/명상/운동 추천 + 직장인 커뮤니티 (오늘의 스트레스 해소법 공유)",
-    "target_user": "20-40대 직장인 (야근/피로)",
+    "idea_hint": "직급·직무별 익명 고민 게시판: 성과급, 인간관계, 커리어 고민을 익명으로 나누고 경험자 조언받는 플랫폼",
+    "target_user": "20-40대 직장인·전문직, 스트레스 해소 및 경력 조언 원하는 사람",
     "urgency": "high",
-    "b2c_potential": "취미/건강"
+    "b2c_potential": "건강/심리"
   },
   {
-    "signal": "게임 과다 공급 시대 '이 게임 해봐야 하나?' 선택장애",
+    "signal": "게임별 깊이 있는 공략·팬 커뮤니티 니즈",
     "source_posts": [
       {
-        "title": "구형 쿤타치 어디서 얻을 수 있을까요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/100647/read/9426180",
+        "title": "블루아카)팬라이트가 민폐될까봐 걱정됬던 선샌니",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75301437?",
         "source": "ruliweb"
       },
       {
-        "title": "하쿠노는 기간한정 없이 프포소환 가능한가요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/300557/read/2675149",
+        "title": "블루아카) 사오리 +1 스택",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75301435?",
         "source": "ruliweb"
       },
       {
-        "title": "[젠레스] 이 겜 모드 쓰는 사람들 많아여?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277270?",
+        "title": "롤) dns가 과연 1시간 넘게 버틸 수 있을까",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75301432?",
         "source": "ruliweb"
       },
       {
-        "title": "내일 일페를 갈까 플엑을 갈까",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277269?",
+        "title": "리버스 바하무트 개 주변에 붉은 구체",
+        "url": "https://bbs.ruliweb.com/etcs/board/185327/read/25378",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임 비교 플랫폼 (플레이타임/난이도/커뮤니티 활성도/P2W 정도 표시) + 취향 기반 추천 알고리즘",
-    "target_user": "20-35대 캐주얼~하드코어 게이머",
-    "urgency": "medium",
+    "idea_hint": "게임별 전문 위키+팬 커뮤니티 앱: 특정 게임(롤, 블루아카, FF7)의 공략·빌드·스택 정보 + 감정적 팬 커뮤니티 통합",
+    "target_user": "10-40대 게이머, 게임을 깊이 있게 즐기는 코어 유저",
+    "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "AI 시대 크리에이터(일러스트레이터, 작가)의 '생존 전략' 갈등",
+    "signal": "관심사 기반 여행·모임 매칭 니즈",
     "source_posts": [
       {
-        "title": "AI때문에 그림쟁이들이 손에서 펜을 놓고있음",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277260?",
-        "source": "ruliweb"
+        "title": "스압 주의)) 같이 도쿄 시계구경 할레? \"세이코 뮤지엄\" [1,2]",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431769",
+        "source": "dcinside"
       }
     ],
-    "idea_hint": "AI 보조 도구 아닌 '크리에이터 커뮤니티' (AI 시대 스킬업/포트폴리오 빌딩 가이드 + 의뢰 매칭)",
-    "target_user": "창작자 (일러스트레이터, 웹툰작가, 음악가 등)",
-    "urgency": "high",
-    "b2c_potential": "교육/커뮤니티"
+    "idea_hint": "공동 관심사 기반 여행·모임 매칭 앱: 영화, 게임, 여행 취향이 같은 사람끼리 함께할 동료를 찾고 연결",
+    "target_user": "20-30대 여행·취미 좋아하는 사람, 혼자가 아닌 함께 즐기고 싶은 사람",
+    "urgency": "medium",
+    "b2c_potential": "관계/취미"
   },
   {
-    "signal": "로컬 무료나눔/공동구매 커뮤니티 요구 (당근마켓 대안 니즈)",
+    "signal": "프리미엄 취미(위스키·경마 등) 정보 공유 커뮤니티 니즈",
     "source_posts": [
       {
-        "title": "8500 짜리 무료나눔 해달라는 당근 유저",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75277268?",
+        "title": "위바?리) 나가하마 증류소 2회차 (feat. 노미호다이)[30]위스키",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431744",
+        "source": "dcinside"
+      },
+      {
+        "title": "말딸,경마) 나는 로망을 좋아하고 추구한다.",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75301440?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "동네 기반 무료나눔 + 공동구매 플랫폼 (환경 인식 + 신뢰도 시스템 강화)",
-    "target_user": "20-45대 환경 인식 소비자, 생활용품 필요층",
+    "idea_hint": "프리미엄 취미 큐레이션 플랫폼: 위스키·경마·컬렉팅 등의 고급 취미 정보, 경험담, 장소 추천을 깊이 있게 공유",
+    "target_user": "30-50대 고소득층, 취미를 진지하게 깊이 있게 추구하는 사람",
     "urgency": "medium",
-    "b2c_potential": "커뮤니티"
+    "b2c_potential": "취미"
   }
 ]
