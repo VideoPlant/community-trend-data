@@ -1,113 +1,88 @@
 [
   {
-    "signal": "게임별 플레이 팁과 스킬 설정에 대한 반복적인 질문과 공략 수요",
+    "signal": "온라인 게임의 업데이트/패치/이벤트 정보를 여러 게임에서 중복으로 추적하는 불편함",
     "source_posts": [
       {
-        "title": "데미안 집중시 용기 충전속도..",
-        "url": "https://bbs.ruliweb.com/etcs/board/185595/read/14586",
+        "title": "블아 연장됨?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327990?",
         "source": "ruliweb"
       },
       {
-        "title": "참월 플레이 중 의문점",
-        "url": "https://bbs.ruliweb.com/etcs/board/185101/read/1395736",
+        "title": "블루아카) 연 장 점 검",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327982?",
         "source": "ruliweb"
       },
       {
-        "title": "오늘자 POM 플레이 모음...jpg[153]롤 대회14:10",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431975",
-        "source": "dcinside"
+        "title": "(블루아카) 현재 선생들 상황.",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327979?",
+        "source": "ruliweb"
       },
       {
-        "title": "싱글벙글 요새 인기 게임의 충격적인 근황",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432003",
-        "source": "dcinside"
+        "title": "블루아카)연 장 점 검!!!! 청휘석 사료 떴다!!",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327977?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "오버워치) 에코 : 개 빡치게 하네 아",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327983?",
+        "source": "ruliweb"
       }
     ],
-    "idea_hint": "특정 게임들의 공략/팁을 AI 챗봇이나 커뮤니티 Q&A로 제공하는 게임 플레이 조언 플랫폼",
-    "target_user": "게임 초보자~중급자, 특정 게임 공략 정보 찾는 20-30대",
+    "idea_hint": "여러 온라인 게임의 패치노트, 이벤트, 캐릭터 추가를 한 대시보드에서 실시간 추적하는 멀티 게임 통합 알림 앱",
+    "target_user": "20-30대 멀티 게임 유저, 게임 커뮤니티 활동가",
     "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "아르바이트·직업 급여 정보의 투명성 부족과 현실적 경험담 공유 니즈",
+    "signal": "전자제품 자가수리 정보 부재로 인한 실패 경험 및 기술 정보 공유 커뮤니티 부족",
     "source_posts": [
       {
-        "title": "집 청소알바 얼마면 될까?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75313154?",
+        "title": "듀얼센스 자가수리 중 구리선 절단",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619465",
         "source": "ruliweb"
-      },
-      {
-        "title": "우라바이트) 은근 위험해진 뒷알바 세계 (스포)",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75313161?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "누구는 6억인데 우린 고작 600만 원?\" 폭발 직전의 삼성전자 내부ㄷ[361]국내야구13:50",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431971",
-        "source": "dcinside"
       }
     ],
-    "idea_hint": "익명 기반 알바/직업별 급여·조건 정보를 모아 시각화하는 Glassdoor 스타일 플랫폼",
-    "target_user": "아르바이트생, 직업 전환 고려자, 저임금 근로자 (20-40대)",
+    "idea_hint": "게임기, 휴대폰, 가전 등 제품별 자가수리 가이드와 실패 사례를 공유하는 한국식 iFixit 플랫폼",
+    "target_user": "20-40대 DIY 관심층, 제품 수리비 절감 원하는 소비자",
+    "urgency": "medium",
+    "b2c_potential": "기타"
+  },
+  {
+    "signal": "인디게임 개발 후 마케팅/판로 부재로 인한 극히 낮은 판매 성과와 개발자의 절망감",
+    "source_posts": [
+      {
+        "title": "5년의 개발 끝에 출시한 RPG가 12장 팔린 썰",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327986?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "인디게임 개발자를 위한 출시 후 마케팅 템플릿, SNS 전략, 판로 개발 가이드 및 멘토링 플랫폼",
+    "target_user": "인디게임 개발자, 1인 개발 스튜디오, 게임 개발 학생",
     "urgency": "high",
-    "b2c_potential": "금융"
+    "b2c_potential": "기타"
   },
   {
-    "signal": "완결 웹툰·만화 결말 분석과 캐릭터·스토리 해석에 대한 깊이 있는 팬 토론",
+    "signal": "브랜드/기업 관련 온라인 여론 변화를 신속하게 파악하고 대응하려는 마케팅/PR팀의 니즈",
     "source_posts": [
       {
-        "title": "룬의아이들)블러드디 결말 조짐이 어찌보면 당연한 이유",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75313159?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "룬의 아이들) 이래서 내가 완결날 때까지 책을 안삼",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75313158?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "본격 폭룡바디 심청이.manhwa[60]카툰-연재15:30",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431991",
+        "title": "민주당, 신세계 정용진 사과에 \"마무리 잘된 것 같아\"",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432257",
         "source": "dcinside"
       },
       {
-        "title": "전쟁의 끝[35]카툰-연재13:40",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431969",
+        "title": "카카오 선물 1위 스벅 쿠폰, 10위까지 추락ㅋㅋㅋ",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432243",
+        "source": "dcinside"
+      },
+      {
+        "title": "'43만 개인정보 유출' 듀오 임원 \"1등 업체라 털렸다\"",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432251",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "스포일러 필터링 기능이 있는 웹툰·만화 스토리 분석 및 팬 커뮤니티",
-    "target_user": "웹툰·소설 열성 팬, 스토리 분석 애호가 (20-35대)",
+    "idea_hint": "DC인사이드, 루리웹, 클리앙 등 한국 주요 커뮤니티의 실시간 감정/여론 분석 및 브랜드 모니터링 대시보드",
+    "target_user": "기업 마케팅팀, PR팀, 브랜드 관리자, 신생 스타트업",
     "urgency": "medium",
-    "b2c_potential": "취미"
-  },
-  {
-    "signal": "취미 창작물(사진, 그림, 핸드크래프트) 공유와 도구·기법 조언 수요",
-    "source_posts": [
-      {
-        "title": "취미용(도색) 아크릴 물감 쉴드에픽 vs 조소냐",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619460",
-        "source": "ruliweb"
-      },
-      {
-        "title": "[한국의미] 우승자 발표[38]디지털 사진14:50",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=431983",
-        "source": "dcinside"
-      },
-      {
-        "title": "올해 새로 만든 반가사유상.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75313150?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "CANON F-1n - 2026.05.16~23 - 코다컬러100",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432007",
-        "source": "dcinside"
-      }
-    ],
-    "idea_hint": "취미 창작자를 위한 포트폴리오 + 피드백·콜라보 매칭 커뮤니티",
-    "target_user": "취미 사진가, 미술·핸드크래프트 창작자 (20-45대)",
-    "urgency": "medium",
-    "b2c_potential": "취미"
+    "b2c_potential": "기타"
   }
 ]

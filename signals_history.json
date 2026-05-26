@@ -1,5 +1,103 @@
 [
   {
+    "collected_at": "2026-05-26T08:00:58Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "온라인 게임의 업데이트/패치/이벤트 정보를 여러 게임에서 중복으로 추적하는 불편함",
+        "source_posts": [
+          {
+            "title": "블아 연장됨?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75327990?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "블루아카) 연 장 점 검",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75327982?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "(블루아카) 현재 선생들 상황.",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75327979?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "블루아카)연 장 점 검!!!! 청휘석 사료 떴다!!",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75327977?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "오버워치) 에코 : 개 빡치게 하네 아",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75327983?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "여러 온라인 게임의 패치노트, 이벤트, 캐릭터 추가를 한 대시보드에서 실시간 추적하는 멀티 게임 통합 알림 앱",
+        "target_user": "20-30대 멀티 게임 유저, 게임 커뮤니티 활동가",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "전자제품 자가수리 정보 부재로 인한 실패 경험 및 기술 정보 공유 커뮤니티 부족",
+        "source_posts": [
+          {
+            "title": "듀얼센스 자가수리 중 구리선 절단",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619465",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임기, 휴대폰, 가전 등 제품별 자가수리 가이드와 실패 사례를 공유하는 한국식 iFixit 플랫폼",
+        "target_user": "20-40대 DIY 관심층, 제품 수리비 절감 원하는 소비자",
+        "urgency": "medium",
+        "b2c_potential": "기타"
+      },
+      {
+        "signal": "인디게임 개발 후 마케팅/판로 부재로 인한 극히 낮은 판매 성과와 개발자의 절망감",
+        "source_posts": [
+          {
+            "title": "5년의 개발 끝에 출시한 RPG가 12장 팔린 썰",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75327986?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "인디게임 개발자를 위한 출시 후 마케팅 템플릿, SNS 전략, 판로 개발 가이드 및 멘토링 플랫폼",
+        "target_user": "인디게임 개발자, 1인 개발 스튜디오, 게임 개발 학생",
+        "urgency": "high",
+        "b2c_potential": "기타"
+      },
+      {
+        "signal": "브랜드/기업 관련 온라인 여론 변화를 신속하게 파악하고 대응하려는 마케팅/PR팀의 니즈",
+        "source_posts": [
+          {
+            "title": "민주당, 신세계 정용진 사과에 \"마무리 잘된 것 같아\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432257",
+            "source": "dcinside"
+          },
+          {
+            "title": "카카오 선물 1위 스벅 쿠폰, 10위까지 추락ㅋㅋㅋ",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432243",
+            "source": "dcinside"
+          },
+          {
+            "title": "'43만 개인정보 유출' 듀오 임원 \"1등 업체라 털렸다\"",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432251",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "DC인사이드, 루리웹, 클리앙 등 한국 주요 커뮤니티의 실시간 감정/여론 분석 및 브랜드 모니터링 대시보드",
+        "target_user": "기업 마케팅팀, PR팀, 브랜드 관리자, 신생 스타트업",
+        "urgency": "medium",
+        "b2c_potential": "기타"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-25T08:01:18Z",
     "post_count": 80,
     "sources": [
@@ -2627,74 +2725,6 @@
         "target_user": "15-35세 게이밍·버튜버 팬덤 커뮤니티",
         "urgency": "medium",
         "b2c_potential": "취미/게임"
-      }
-    ]
-  },
-  {
-    "collected_at": "2026-04-29T14:50:00Z",
-    "post_count": 73,
-    "sources": [
-      "clien",
-      "dcinside",
-      "ohu",
-      "ruliweb"
-    ],
-    "signals": [
-      {
-        "signal": "게임 커뮤니티에서의 공략·팁·캐릭터 빌드 질문 (블루아카, 젠레스, 몬헌, PS5 더 디비전2)",
-        "source_posts": [
-          "[PS5] 최정상 90층 가지고 계신 분 있으세요?",
-          "미니 크라운 구해봅니다.",
-          "젠레스) 서폿 공사는 나올려면 멀었겠지?",
-          "블루아카) 문득 재밌는 사실이 떠올랐다"
-        ],
-        "idea_hint": "특정 게임 선택 → AI가 캐릭터 빌드·공략·팁을 대화형으로 제공하는 게임 코칭 AI",
-        "target_user": "20-30대 게이머, 게임 커뮤니티 활동가",
-        "urgency": "medium",
-        "b2c_potential": "취미"
-      },
-      {
-        "signal": "내향인의 집에서의 시간 활용·감정 케어에 대한 니즈 (퇴근 후 재충전, 혼자 있고 싶은 욕구)",
-        "source_posts": [
-          "집에서 쉬어야 충전되는 내향인들 들어와보세요"
-        ],
-        "idea_hint": "기분·시간대·관심사 입력 → AI가 영화·책·게임·휴식법 등을 맞춤 추천하고 감정 공감하는 내향인 루틴 앱",
-        "target_user": "20-40대 내향인, 퇴근 후 시간 활용 고민층",
-        "urgency": "high",
-        "b2c_potential": "감성"
-      },
-      {
-        "signal": "일상의 소소한 경험·에피소드 공유 욕구 (옷 채굴, 작은 일상의 감동, 경험담)",
-        "source_posts": [
-          "작년에 산 옷을 채굴했습니다",
-          "난 이런 예쁜 여자친구랑 결혼할거임",
-          "방구만 낄 생각이었는데..."
-        ],
-        "idea_hint": "일상 경험 입력 → AI가 공감·조언·유사 경험 사용자 매칭하고 감정적 연결을 만드는 감정공유 SNS",
-        "target_user": "20-40대 전연령, 특히 여성·감정 표현 욕구 높은 층",
-        "urgency": "medium",
-        "b2c_potential": "감성"
-      },
-      {
-        "signal": "기기 전환 시 설정·데이터 마이그레이션 고민 (맥북에서 윈도우로의 전환 불안감)",
-        "source_posts": [
-          "맥북에서 윈도우 노트북으로 넘어갑니다 (맥북 에어 → 씽패 X1 Gen 9)"
-        ],
-        "idea_hint": "출발 기기·목표 기기 선택 → AI가 파일 마이그레이션·소프트웨어 추천·설정값 복사를 단계별로 자동화하는 기기 전환 도우미",
-        "target_user": "직장인, 개발자, 기술 관심층",
-        "urgency": "medium",
-        "b2c_potential": "기타"
-      },
-      {
-        "signal": "경제·금융 뉴스를 쉽게 이해하고 싶은 욕구 (반도체, 주식, 기업 뉴스에 높은 조회수)",
-        "source_posts": [
-          "2023년 삼성전자 DS부분 영업적자 15조에 반도체 재고 30조였습니다.",
-          "주식에 미쳐서 삼성전자 물적분할 해서 반도체만 남겨라..."
-        ],
-        "idea_hint": "경제 뉴스 URL 또는 텍스트 입력 → AI가 초보자 친화적으로 5-10문장으로 쉽게 설명하고 투자 관련도·영향도를 분석하는 경제뉴스 설명AI",
-        "target_user": "20-40대 직장인, 초보 투자자, 경제 관심층",
-        "urgency": "medium",
-        "b2c_potential": "금융"
       }
     ]
   }
