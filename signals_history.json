@@ -1,5 +1,113 @@
 [
   {
+    "collected_at": "2026-05-27T08:00:51Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "일상의 가상 선택지에 대한 의견 투표 및 평가 욕구 - '이렇게 선택하면 손해/득이 되나'에 대한 검증",
+        "source_posts": [
+          {
+            "title": "1000억 받는 대신 갓오브워의 발두르처럼 모든 감각이 사라진다면?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75339703?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "나는 요즘 생각하는 게 순전히 내 기분을 위한 일",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75339713?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "어느 쪽이나 실망이 크다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75339701?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "일상의 선택지(돈/감정/시간)를 올리고 타인의 찬성/반대 투표 + 한줄 의견으로 검증받는 앱",
+        "target_user": "20-30대 직장인, 결정 불안감 있는 사람",
+        "urgency": "high",
+        "b2c_potential": "감성/관계"
+      },
+      {
+        "signal": "한 줄의 철학적 관찰·감정·단편 생각을 익명으로 공유하고 공감받고 싶은 욕구",
+        "source_posts": [
+          {
+            "title": "씻는 것도 습관임",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75339711?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "이게 아직도 해? 라는 말이 나오는 작품이 생각보다 많군",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75339704?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "[ㅇㅎ] 싱글벙글 애기냠냠주머니",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432537",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "트위터보다 짧고 익명 중심, 공감/하트 기반의 한국식 마이크로 감정 공유 플랫폼",
+        "target_user": "20-30대, 감정 표현 선호, 공감 갈증",
+        "urgency": "high",
+        "b2c_potential": "감성"
+      },
+      {
+        "signal": "게임별로 분산된 Q&A·공략 정보를 한 곳에서 빠르게 얻고 싶은 니즈",
+        "source_posts": [
+          {
+            "title": "고전게임 탑건 하드락 질문",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619467",
+            "source": "ruliweb"
+          },
+          {
+            "title": "연금술사 제작 관련 트로피 이제 못따나요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/185248/read/28538",
+            "source": "ruliweb"
+          },
+          {
+            "title": "강철대륙 뭐 키워야 되지..",
+            "url": "https://bbs.ruliweb.com/etcs/board/185438/read/1395801",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 카테고리 Q&A + AI 가이드 요약으로 커뮤니티 분산을 통합하는 게임 전용 스택오버플로우",
+        "target_user": "캐주얼·코어 게이머, 정보 찾기 불편해하는 유저",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "최신 밈·트렌드의 배경·컨텍스트를 빠르게 학습하고 공유하려는 욕구",
+        "source_posts": [
+          {
+            "title": "저세상화질의 트럼프",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75339699?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "카카오톡 그사람 근황",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75339712?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "싱글벙글 현직 미국 항공사 기장도 샤리웃한 인천공항",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432531",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "최신 밈/짤을 업로드 → 커뮤니티가 설명·배경 추가하는 실시간 밈 사전 & 트렌드 추적",
+        "target_user": "Z세대·MZ세대, SNS 밈 문화 팔로우",
+        "urgency": "medium",
+        "b2c_potential": "감성/취미"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-26T08:00:58Z",
     "post_count": 80,
     "sources": [
@@ -2654,77 +2762,6 @@
         "target_user": "20-30대 외식족, 먹방 관심층",
         "urgency": "medium",
         "b2c_potential": "취미/감성"
-      }
-    ]
-  },
-  {
-    "collected_at": "2026-04-29T14:48:00Z",
-    "post_count": 73,
-    "sources": [
-      "clien",
-      "dcinside",
-      "ohu",
-      "ruliweb"
-    ],
-    "signals": [
-      {
-        "signal": "게임 빌드·전략 정보 검색의 번거로움 (593K 뷰의 실제 니즈)",
-        "source_posts": [
-          "확전에서 기타대빌드 어떻게 하시나요? 공유 부탁드립니다!",
-          "니케)몇시간 전에 올라온건데",
-          "블루아카)일섭]탱커가 딜도 할수있는거 아니냐는 쿠루미"
-        ],
-        "idea_hint": "게임 스크린샷/영상 → Claude Vision으로 현재 빌드 분석 → 최적 빌드·변경안 제시하는 게임별 AI 코치",
-        "target_user": "20-40대 게이머 (니케·블루아카·스타레일·확장전쟁 커뮤니티)",
-        "urgency": "high",
-        "b2c_potential": "취미/게임"
-      },
-      {
-        "signal": "일상 피로·스트레스 때 감성 콘텐츠·위로에 대한 갈증 (552K 뷰)",
-        "source_posts": [
-          "지치고 힘들때 보면 좋은 비율",
-          "한국 가톨릭 근황.news",
-          "AI) 언어별 AI 토큰 효율성 근황"
-        ],
-        "idea_hint": "오늘의 감정·상황 입력 → AI가 맞춤형 위로 메시지 + 공감 + 재미있는 팁 조합 생성하는 감성 일기 앱",
-        "target_user": "20-30대 직장인·학생 (위로·공감 콘텐츠 소비층)",
-        "urgency": "high",
-        "b2c_potential": "감성/건강(심리)"
-      },
-      {
-        "signal": "직장 스트레스·인간관계·심리 불안 (노조 이슈·'어지러운 요즘'·직장피로 관련글)",
-        "source_posts": [
-          "사측 노조 각자 자기 권리를 찾으면 됩니다...",
-          "심각) '어지러운 요즘입니다.'",
-          "앞으로 실업문제를 국가주도 투자로 해결하는 방안들이 있더라구요"
-        ],
-        "idea_hint": "직장 상황(회의 지연·갑질·야근·인간관계) 선택 → AI가 심리상담 + 구체적 대응법 + 공감 조언 제시",
-        "target_user": "25-45세 직장인 (심리상담 수요층)",
-        "urgency": "high",
-        "b2c_potential": "관계/건강(심리)"
-      },
-      {
-        "signal": "내향인 특성에 맞는 일상 활동·루틴 필요 ('집에서 쉬어야 충전' 2.5K 뷰)",
-        "source_posts": [
-          "집에서 쉬어야 충전되는 내향인들 들어와보세요",
-          "작년에 산 옷을 채굴했습니다"
-        ],
-        "idea_hint": "MBTI/성향 테스트 → 내향인·외향인별 집에서 할 수 있는 루틴 30-50개 AI 기반 추천 (취미·학습·휴식)",
-        "target_user": "20-35세 내향인 (성향 맞춤 라이프스타일)",
-        "urgency": "medium",
-        "b2c_potential": "취미/관계"
-      },
-      {
-        "signal": "게임·버튜버 실시간 커뮤니티 활동 중 감정·반응 공유 문화 (버튜버·게임 관련글 다수)",
-        "source_posts": [
-          "버튜버) 이 수라장은 대체",
-          "버튜버) 이런 경우도 있네",
-          "니케) 리겜 하다보니 노래 이거 좋네"
-        ],
-        "idea_hint": "트위치/유튜브 라이브 채팅 실시간 분석 → 감정도 시각화 + '지금 뜨는 밈·梗' 자동 추출해서 팬들에게 공유",
-        "target_user": "15-35세 게이밍·버튜버 팬덤 커뮤니티",
-        "urgency": "medium",
-        "b2c_potential": "취미/게임"
       }
     ]
   }

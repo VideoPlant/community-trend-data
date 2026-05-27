@@ -1,88 +1,98 @@
 [
   {
-    "signal": "온라인 게임의 업데이트/패치/이벤트 정보를 여러 게임에서 중복으로 추적하는 불편함",
+    "signal": "일상의 가상 선택지에 대한 의견 투표 및 평가 욕구 - '이렇게 선택하면 손해/득이 되나'에 대한 검증",
     "source_posts": [
       {
-        "title": "블아 연장됨?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327990?",
+        "title": "1000억 받는 대신 갓오브워의 발두르처럼 모든 감각이 사라진다면?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339703?",
         "source": "ruliweb"
       },
       {
-        "title": "블루아카) 연 장 점 검",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327982?",
+        "title": "나는 요즘 생각하는 게 순전히 내 기분을 위한 일",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339713?",
         "source": "ruliweb"
       },
       {
-        "title": "(블루아카) 현재 선생들 상황.",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327979?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "블루아카)연 장 점 검!!!! 청휘석 사료 떴다!!",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327977?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "오버워치) 에코 : 개 빡치게 하네 아",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327983?",
+        "title": "어느 쪽이나 실망이 크다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339701?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "여러 온라인 게임의 패치노트, 이벤트, 캐릭터 추가를 한 대시보드에서 실시간 추적하는 멀티 게임 통합 알림 앱",
-    "target_user": "20-30대 멀티 게임 유저, 게임 커뮤니티 활동가",
+    "idea_hint": "일상의 선택지(돈/감정/시간)를 올리고 타인의 찬성/반대 투표 + 한줄 의견으로 검증받는 앱",
+    "target_user": "20-30대 직장인, 결정 불안감 있는 사람",
     "urgency": "high",
+    "b2c_potential": "감성/관계"
+  },
+  {
+    "signal": "한 줄의 철학적 관찰·감정·단편 생각을 익명으로 공유하고 공감받고 싶은 욕구",
+    "source_posts": [
+      {
+        "title": "씻는 것도 습관임",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339711?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "이게 아직도 해? 라는 말이 나오는 작품이 생각보다 많군",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339704?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "[ㅇㅎ] 싱글벙글 애기냠냠주머니",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432537",
+        "source": "dcinside"
+      }
+    ],
+    "idea_hint": "트위터보다 짧고 익명 중심, 공감/하트 기반의 한국식 마이크로 감정 공유 플랫폼",
+    "target_user": "20-30대, 감정 표현 선호, 공감 갈증",
+    "urgency": "high",
+    "b2c_potential": "감성"
+  },
+  {
+    "signal": "게임별로 분산된 Q&A·공략 정보를 한 곳에서 빠르게 얻고 싶은 니즈",
+    "source_posts": [
+      {
+        "title": "고전게임 탑건 하드락 질문",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619467",
+        "source": "ruliweb"
+      },
+      {
+        "title": "연금술사 제작 관련 트로피 이제 못따나요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/185248/read/28538",
+        "source": "ruliweb"
+      },
+      {
+        "title": "강철대륙 뭐 키워야 되지..",
+        "url": "https://bbs.ruliweb.com/etcs/board/185438/read/1395801",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "게임별 카테고리 Q&A + AI 가이드 요약으로 커뮤니티 분산을 통합하는 게임 전용 스택오버플로우",
+    "target_user": "캐주얼·코어 게이머, 정보 찾기 불편해하는 유저",
+    "urgency": "medium",
     "b2c_potential": "취미"
   },
   {
-    "signal": "전자제품 자가수리 정보 부재로 인한 실패 경험 및 기술 정보 공유 커뮤니티 부족",
+    "signal": "최신 밈·트렌드의 배경·컨텍스트를 빠르게 학습하고 공유하려는 욕구",
     "source_posts": [
       {
-        "title": "듀얼센스 자가수리 중 구리선 절단",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619465",
+        "title": "저세상화질의 트럼프",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339699?",
         "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "게임기, 휴대폰, 가전 등 제품별 자가수리 가이드와 실패 사례를 공유하는 한국식 iFixit 플랫폼",
-    "target_user": "20-40대 DIY 관심층, 제품 수리비 절감 원하는 소비자",
-    "urgency": "medium",
-    "b2c_potential": "기타"
-  },
-  {
-    "signal": "인디게임 개발 후 마케팅/판로 부재로 인한 극히 낮은 판매 성과와 개발자의 절망감",
-    "source_posts": [
-      {
-        "title": "5년의 개발 끝에 출시한 RPG가 12장 팔린 썰",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75327986?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "인디게임 개발자를 위한 출시 후 마케팅 템플릿, SNS 전략, 판로 개발 가이드 및 멘토링 플랫폼",
-    "target_user": "인디게임 개발자, 1인 개발 스튜디오, 게임 개발 학생",
-    "urgency": "high",
-    "b2c_potential": "기타"
-  },
-  {
-    "signal": "브랜드/기업 관련 온라인 여론 변화를 신속하게 파악하고 대응하려는 마케팅/PR팀의 니즈",
-    "source_posts": [
-      {
-        "title": "민주당, 신세계 정용진 사과에 \"마무리 잘된 것 같아\"",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432257",
-        "source": "dcinside"
       },
       {
-        "title": "카카오 선물 1위 스벅 쿠폰, 10위까지 추락ㅋㅋㅋ",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432243",
-        "source": "dcinside"
+        "title": "카카오톡 그사람 근황",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339712?",
+        "source": "ruliweb"
       },
       {
-        "title": "'43만 개인정보 유출' 듀오 임원 \"1등 업체라 털렸다\"",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432251",
+        "title": "싱글벙글 현직 미국 항공사 기장도 샤리웃한 인천공항",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432531",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "DC인사이드, 루리웹, 클리앙 등 한국 주요 커뮤니티의 실시간 감정/여론 분석 및 브랜드 모니터링 대시보드",
-    "target_user": "기업 마케팅팀, PR팀, 브랜드 관리자, 신생 스타트업",
+    "idea_hint": "최신 밈/짤을 업로드 → 커뮤니티가 설명·배경 추가하는 실시간 밈 사전 & 트렌드 추적",
+    "target_user": "Z세대·MZ세대, SNS 밈 문화 팔로우",
     "urgency": "medium",
-    "b2c_potential": "기타"
+    "b2c_potential": "감성/취미"
   }
 ]
