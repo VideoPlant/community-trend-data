@@ -1,5 +1,127 @@
 [
   {
+    "collected_at": "2026-05-28T08:00:51Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임별로 산재된 커뮤니티 - 통합 게임 토크 플랫폼 필요",
+        "source_posts": [
+          {
+            "title": "원신) 스토리 이해가 어떻게 잘됨",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351812?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "블루아카) 폭력적인 눈덩이 ㅋㅋㅋㅋㅋㅋㅋ",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351803?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "페그오) 선배 보5 달성",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351805?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "림버스) 아니 ㅋㅋㅋ 중지덱 풀파워가 나오기 전에 몹이 녹아",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351808?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "롤) 과연 오늘도 든은...",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351809?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "여러 게임을 하는 플레이어들이 게임별 최신 토크, 팁, 자랑을 한 피드에서 보고 팔로우할 수 있는 게임 커뮤니티 통합 앱",
+        "target_user": "20-30대 모바일/PC 게임 멀티 유저",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "게임 이벤트/픽업/보스 타이밍 정보에 대한 반복적 질문",
+        "source_posts": [
+          {
+            "title": "머스칸 언제 잡으러 갈 수 있을까요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/185595/read/14726",
+            "source": "ruliweb"
+          },
+          {
+            "title": "블루아카) 다음 픽업은",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351798?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "플레이 중인 게임들의 보스/이벤트/픽업 스케줄을 통합 달력에서 한눈에 보고 알림 받는 게임 이벤트 트래커",
+        "target_user": "20-30대 모바일 게임 유저",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "실생활 금융/고용/보험 등 신뢰할 수 있는 답변 필요",
+        "source_posts": [
+          {
+            "title": "가족회사 고용보험 받을수있나요?",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619470",
+            "source": "ruliweb"
+          },
+          {
+            "title": "환율 기준",
+            "url": "https://bbs.ruliweb.com/etcs/board/300085/read/30650758",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "세금, 보험, 고용, 환율 등 일상 금융 문제를 경험자/전문가에게 빠르게 물어보고 검증된 답변을 얻는 실시간 Q&A 플랫폼",
+        "target_user": "20-40대 직장인, 1인 사업자",
+        "urgency": "medium",
+        "b2c_potential": "금융"
+      },
+      {
+        "signal": "게임/창작 팬아트 등 개인 창작물 공유 및 피드백 욕구",
+        "source_posts": [
+          {
+            "title": "말딸)스테고로 레트로 게임풍 화면 만들어봄",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351813?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "삼국지) 블로거 개인께서 만드신 당시 행정구역 지도",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351804?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "작혼) 유즈 라이브 스킨 살려고 했는데 ai그림 이라고 하네",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75351801?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임 플레이 스크린샷, 팬아트, MOD, 영상 클립 등 게임 관련 창작물을 쉽게 업로드하고 커뮤니티 피드백을 받는 크리에이터 플랫폼",
+        "target_user": "20-30대 게임 팬아트 작가, 게임 크리에이터",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "증가하는 금융 사기 피해 - 사기 패턴 학습 및 신고 커뮤니티 필요",
+        "source_posts": [
+          {
+            "title": "틀딱들 가짜 앱 속아 49억 금괴 털렸다…160억대 리딩방 사기단 검거[77]무출산16:20",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432843",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "금융사기/보이스피싱/가짜앱 패턴을 커뮤니티에서 공유·검증하고, 의심거래를 실시간으로 신고/대응할 수 있는 사기 방지 앱",
+        "target_user": "30-60대 중장년층, 2040대",
+        "urgency": "high",
+        "b2c_potential": "금융"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-27T08:00:51Z",
     "post_count": 80,
     "sources": [
@@ -2695,73 +2817,6 @@
         "target_user": "10-30대 팬덤 (MZ세대 중심)",
         "urgency": "high",
         "b2c_potential": "취미"
-      }
-    ]
-  },
-  {
-    "collected_at": "2026-04-29T14:46:00Z",
-    "post_count": 75,
-    "sources": [
-      "clien",
-      "dcinside",
-      "ohu",
-      "ruliweb"
-    ],
-    "signals": [
-      {
-        "signal": "옷장 정리·재발견 니즈 (오래된 옷 활용)",
-        "source_posts": [
-          "작년에 산 옷을 채굴했습니다"
-        ],
-        "idea_hint": "AI가 추천하는 옷장 관리 앱 — 사진 업로드 → 계절/색상/스타일별 착장 조합 추천 + '채굴' 기능으로 묵혀있던 옷 재발견",
-        "target_user": "20-30대 여성, 패션/쇼핑 관심층",
-        "urgency": "high",
-        "b2c_potential": "감성/취미"
-      },
-      {
-        "signal": "버튜버 팬덤 실시간 공유 및 커뮤니티",
-        "source_posts": [
-          "버튜버) 오늘따라 엄청났구나 스바오카",
-          "버튜버)마마랑 코코이치 콜라보 중인 카나데",
-          "@) 타마키님께서 내려주신 포상 !!!!!"
-        ],
-        "idea_hint": "버튜버별 팬 커뮤니티 앱 — 좋아하는 버튜버 선택 → 실시간 스트림 알림 + 팬 대화 + 팬아트/영상 공유 플랫폼",
-        "target_user": "10-20대 버튜버 팬덤",
-        "urgency": "high",
-        "b2c_potential": "관계/취미"
-      },
-      {
-        "signal": "내향인 정체성 기반 활동 추천 니즈",
-        "source_posts": [
-          "집에서 쉬어야 충전되는 내향인들 들어와보세요"
-        ],
-        "idea_hint": "내향인 맞춤형 활동 플래너 — 성격 테스트 → 홈카페, 1인 취미, 조용한 문화생활 추천 + 에너지 관리 일지",
-        "target_user": "자신을 내향인으로 규정하는 20-30대",
-        "urgency": "high",
-        "b2c_potential": "감성/취미"
-      },
-      {
-        "signal": "복잡한 정치·경제 뉴스 이해도 저하",
-        "source_posts": [
-          "추경호가 선거에서 지면",
-          "친일재산 몰수법 통과",
-          "주식에 미쳐서 삼성전자 물적분할",
-          "2023년 삼성전자 DS부분 영업적자"
-        ],
-        "idea_hint": "정치·경제 뉴스 3줄 요약 + AI 입장 테스트 — 복잡한 이슈를 쉬운 말로 정리 후 '당신은 어느 쪽일까?' 성향 테스트로 개인화",
-        "target_user": "20-40대 뉴스 소비층, 정치 관심층",
-        "urgency": "medium",
-        "b2c_potential": "기타(정보/교육)"
-      },
-      {
-        "signal": "음식 선호도 기반 추천 및 공유",
-        "source_posts": [
-          "한국인이 좋아하는 국밥 순위"
-        ],
-        "idea_hint": "음식 취향 테스트 + AI 음식/식당 추천 앱 — 선호하는 맛·재료·가격대 입력 → 주변 식당 추천 + 커뮤니티 평점 공유",
-        "target_user": "20-30대 외식족, 먹방 관심층",
-        "urgency": "medium",
-        "b2c_potential": "취미/감성"
       }
     ]
   }

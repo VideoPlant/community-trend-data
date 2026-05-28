@@ -1,98 +1,112 @@
 [
   {
-    "signal": "일상의 가상 선택지에 대한 의견 투표 및 평가 욕구 - '이렇게 선택하면 손해/득이 되나'에 대한 검증",
+    "signal": "게임별로 산재된 커뮤니티 - 통합 게임 토크 플랫폼 필요",
     "source_posts": [
       {
-        "title": "1000억 받는 대신 갓오브워의 발두르처럼 모든 감각이 사라진다면?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339703?",
+        "title": "원신) 스토리 이해가 어떻게 잘됨",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351812?",
         "source": "ruliweb"
       },
       {
-        "title": "나는 요즘 생각하는 게 순전히 내 기분을 위한 일",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339713?",
+        "title": "블루아카) 폭력적인 눈덩이 ㅋㅋㅋㅋㅋㅋㅋ",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351803?",
         "source": "ruliweb"
       },
       {
-        "title": "어느 쪽이나 실망이 크다",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339701?",
+        "title": "페그오) 선배 보5 달성",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351805?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "림버스) 아니 ㅋㅋㅋ 중지덱 풀파워가 나오기 전에 몹이 녹아",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351808?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "롤) 과연 오늘도 든은...",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351809?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "일상의 선택지(돈/감정/시간)를 올리고 타인의 찬성/반대 투표 + 한줄 의견으로 검증받는 앱",
-    "target_user": "20-30대 직장인, 결정 불안감 있는 사람",
+    "idea_hint": "여러 게임을 하는 플레이어들이 게임별 최신 토크, 팁, 자랑을 한 피드에서 보고 팔로우할 수 있는 게임 커뮤니티 통합 앱",
+    "target_user": "20-30대 모바일/PC 게임 멀티 유저",
     "urgency": "high",
-    "b2c_potential": "감성/관계"
+    "b2c_potential": "취미"
   },
   {
-    "signal": "한 줄의 철학적 관찰·감정·단편 생각을 익명으로 공유하고 공감받고 싶은 욕구",
+    "signal": "게임 이벤트/픽업/보스 타이밍 정보에 대한 반복적 질문",
     "source_posts": [
       {
-        "title": "씻는 것도 습관임",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339711?",
+        "title": "머스칸 언제 잡으러 갈 수 있을까요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/185595/read/14726",
         "source": "ruliweb"
       },
       {
-        "title": "이게 아직도 해? 라는 말이 나오는 작품이 생각보다 많군",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339704?",
+        "title": "블루아카) 다음 픽업은",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351798?",
         "source": "ruliweb"
-      },
-      {
-        "title": "[ㅇㅎ] 싱글벙글 애기냠냠주머니",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432537",
-        "source": "dcinside"
       }
     ],
-    "idea_hint": "트위터보다 짧고 익명 중심, 공감/하트 기반의 한국식 마이크로 감정 공유 플랫폼",
-    "target_user": "20-30대, 감정 표현 선호, 공감 갈증",
+    "idea_hint": "플레이 중인 게임들의 보스/이벤트/픽업 스케줄을 통합 달력에서 한눈에 보고 알림 받는 게임 이벤트 트래커",
+    "target_user": "20-30대 모바일 게임 유저",
     "urgency": "high",
-    "b2c_potential": "감성"
+    "b2c_potential": "취미"
   },
   {
-    "signal": "게임별로 분산된 Q&A·공략 정보를 한 곳에서 빠르게 얻고 싶은 니즈",
+    "signal": "실생활 금융/고용/보험 등 신뢰할 수 있는 답변 필요",
     "source_posts": [
       {
-        "title": "고전게임 탑건 하드락 질문",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619467",
+        "title": "가족회사 고용보험 받을수있나요?",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619470",
         "source": "ruliweb"
       },
       {
-        "title": "연금술사 제작 관련 트로피 이제 못따나요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/185248/read/28538",
-        "source": "ruliweb"
-      },
-      {
-        "title": "강철대륙 뭐 키워야 되지..",
-        "url": "https://bbs.ruliweb.com/etcs/board/185438/read/1395801",
+        "title": "환율 기준",
+        "url": "https://bbs.ruliweb.com/etcs/board/300085/read/30650758",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임별 카테고리 Q&A + AI 가이드 요약으로 커뮤니티 분산을 통합하는 게임 전용 스택오버플로우",
-    "target_user": "캐주얼·코어 게이머, 정보 찾기 불편해하는 유저",
+    "idea_hint": "세금, 보험, 고용, 환율 등 일상 금융 문제를 경험자/전문가에게 빠르게 물어보고 검증된 답변을 얻는 실시간 Q&A 플랫폼",
+    "target_user": "20-40대 직장인, 1인 사업자",
+    "urgency": "medium",
+    "b2c_potential": "금융"
+  },
+  {
+    "signal": "게임/창작 팬아트 등 개인 창작물 공유 및 피드백 욕구",
+    "source_posts": [
+      {
+        "title": "말딸)스테고로 레트로 게임풍 화면 만들어봄",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351813?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "삼국지) 블로거 개인께서 만드신 당시 행정구역 지도",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351804?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "작혼) 유즈 라이브 스킨 살려고 했는데 ai그림 이라고 하네",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75351801?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "게임 플레이 스크린샷, 팬아트, MOD, 영상 클립 등 게임 관련 창작물을 쉽게 업로드하고 커뮤니티 피드백을 받는 크리에이터 플랫폼",
+    "target_user": "20-30대 게임 팬아트 작가, 게임 크리에이터",
     "urgency": "medium",
     "b2c_potential": "취미"
   },
   {
-    "signal": "최신 밈·트렌드의 배경·컨텍스트를 빠르게 학습하고 공유하려는 욕구",
+    "signal": "증가하는 금융 사기 피해 - 사기 패턴 학습 및 신고 커뮤니티 필요",
     "source_posts": [
       {
-        "title": "저세상화질의 트럼프",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339699?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "카카오톡 그사람 근황",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75339712?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "싱글벙글 현직 미국 항공사 기장도 샤리웃한 인천공항",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432531",
+        "title": "틀딱들 가짜 앱 속아 49억 금괴 털렸다…160억대 리딩방 사기단 검거[77]무출산16:20",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=432843",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "최신 밈/짤을 업로드 → 커뮤니티가 설명·배경 추가하는 실시간 밈 사전 & 트렌드 추적",
-    "target_user": "Z세대·MZ세대, SNS 밈 문화 팔로우",
-    "urgency": "medium",
-    "b2c_potential": "감성/취미"
+    "idea_hint": "금융사기/보이스피싱/가짜앱 패턴을 커뮤니티에서 공유·검증하고, 의심거래를 실시간으로 신고/대응할 수 있는 사기 방지 앱",
+    "target_user": "30-60대 중장년층, 2040대",
+    "urgency": "high",
+    "b2c_potential": "금융"
   }
 ]
