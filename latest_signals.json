@@ -1,112 +1,93 @@
 [
   {
-    "signal": "직장인들의 일상 스트레스·불만 표현 및 공감 욕구",
+    "signal": "게임 정보/후기 추천 커뮤니티 - 신작 게임 구매 전 정보 수집 및 DLC/트레일러 반응",
     "source_posts": [
       {
-        "title": "진짜 사직서 내고싶다",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366057?",
+        "title": "4탄 DLC 또 나올까요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/100520/read/9333607",
         "source": "ruliweb"
       },
       {
-        "title": "입대할때 보충대에서 처음 들었던 개소리가",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366051?",
+        "title": "콜옵) 모던워페어4 트레일러 조회수보소 ㄷㄷㄷ 4천만돌파",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377944?",
         "source": "ruliweb"
       },
       {
-        "title": "흡연자 폭행하는 직원",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366054?",
+        "title": "롤) 비디디를 만난 덕피",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377931?",
         "source": "ruliweb"
+      },
+      {
+        "title": "5월 개발 일지 및 향후 콘텐츠 소개[59]인디 게임 개발",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433346",
+        "source": "dcinside"
       }
     ],
-    "idea_hint": "직장인들이 익명으로 퇴근 후 스트레스, 불만, 성공 스토리를 공유하고 위로받는 감정 커뮤니티 앱",
-    "target_user": "20-40대 직장인, 사회초년생",
-    "urgency": "high",
-    "b2c_potential": "감성/관계"
-  },
-  {
-    "signal": "게임별 실시간 메타·캐릭터 강약 분석에 대한 지속적 토론",
-    "source_posts": [
-      {
-        "title": "롤) 어떻게 1군이 캐니언, 루시드",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366050?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "블루아카)코하루가 트리니티의 전술핵인 이유",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366046?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "림버스) 질리는게 너무 심한 중버지",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366052?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "게임별 온라인 토론을 크롤링해서 현재 핫한 게임·캐릭터·메타를 실시간 순위로 보여주는 대시보드",
-    "target_user": "10-40대 게이머, 특히 하드코어·캐주얼 게이머",
+    "idea_hint": "게임별 커뮤니티 + AI 요약 (YouTube 댓글처럼 유저 반응을 시간순으로 모아 트렌드 파악)",
+    "target_user": "20-35대 게임 캐주얼/하드코어 유저",
     "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "사회초년생·신입직원의 직장 생활 경험담·팁 습득 요구",
+    "signal": "소비 선택 전 커뮤니티 조언 - 냉동만두·팝콘 등 일상 소비부터 영화/드라마 선택까지",
     "source_posts": [
       {
-        "title": "입대할때 보충대에서 처음 들었던 개소리가",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366051?",
+        "title": "저렴하면서도 먹을 만한 냉동 만두 추천 부탁드립니다",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619480",
         "source": "ruliweb"
       },
       {
-        "title": "\"알바도 '부모 찬스' 써야 하는 세상\"…알바도 '경력자 우대",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433134",
-        "source": "dcinside"
+        "title": "영화관에서 팝콘을 사면",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377942?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "드라마) 아무도 관심없는 하오드 시즌3",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377938?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "일본산 같은 국산 브랜드",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377945?",
+        "source": "ruliweb"
       }
     ],
-    "idea_hint": "신입사원들의 '회사 적응법·면접 팁·선배 조언' 질문에 경험담으로 답하는 위키 형태의 직장 생활 가이드",
-    "target_user": "사회초년생, 20-30대 신입직원·구직자",
-    "urgency": "medium-high",
-    "b2c_potential": "관계"
+    "idea_hint": "구조화된 '이거 어때요?' 플랫폼 - 카테고리별 선택 옵션 + 투표/리뷰 (Reddit AMA 스타일 빠른 의견 수집)",
+    "target_user": "20-40대 구매 전 신중한 소비자",
+    "urgency": "high",
+    "b2c_potential": "생활/소비"
   },
   {
-    "signal": "애니메이션·게임 캐릭터 팬덤과 IP 관련 토론의 활발한 참여",
+    "signal": "덕질 활동 기록 & 공유 - 굿즈 구매, 래플 참여, 수집품 자랑",
     "source_posts": [
       {
-        "title": "프리큐어와 콜라보하는 코난 인성 수준",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366053?",
+        "title": "명조)굿즈 받고 럭키드로우 막차까지 탔다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377939?",
         "source": "ruliweb"
       },
       {
-        "title": "주술회전 스포 모듈로에서 반응 웃겼던게 ㅋㅋㅋㅋㅋ",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366043?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "블루아카)유즈가 에이미보다 연상이라는게",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75366047?",
+        "title": "선물받은 30mf 프라 가조립 완료",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377933?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "주술회전·프리큐어·블루아카 등 각 IP별 팬덤을 모아서 팬아트·토론·굿즈·방송 일정을 한곳에 큐레이션하는 앱",
-    "target_user": "10-30대 서브컬처·애니메이션 팬덤층",
+    "idea_hint": "Instagram/Pinterest 스타일 덕질 타임라인 - 굿즈 구매 기록, 래플 당첨 추적, 수집품 갤러리 (Goodreads for collectibles)",
+    "target_user": "10-40대 덕후/취미 활동 활발한 사람",
     "urgency": "medium",
-    "b2c_potential": "취미/감성"
+    "b2c_potential": "취미"
   },
   {
-    "signal": "기술·기기 구매 전 실제 사용자 경험·조언 수집 요청",
+    "signal": "인생 전환점 결정 고민 - 직업 선택, 유학/이직 등 큰 결정 앞에서 경험자 조언 구하기",
     "source_posts": [
       {
-        "title": "데스크탑(본체) 케이스 측면이 강화유리인건 어떤 장점이 있나요?",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619476",
-        "source": "ruliweb"
-      },
-      {
-        "title": "스위치2 배터리 수명이 완전 다 끝나면 게임을 못하나요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/300049/read/30552531",
+        "title": "연기학원아래서 1시간째 고민중",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377940?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "기술·게이밍 기기 구매 전 실사용자 Q&A·리뷰를 모아서 신뢰도 높은 기술 제품 선택 가이드 제공",
-    "target_user": "15-50대 기술 관심층·기기 구매자·빌드 애호가",
+    "idea_hint": "구조화된 의사결정 가이드 + 커뮤니티 피드백 - '연기학원 vs 배우 취업' 같은 선택지별 경험담 모으기 (What Should I Do 스타일)",
+    "target_user": "20-45대 인생 전환기에 있는 사람들",
     "urgency": "medium",
-    "b2c_potential": "기타"
+    "b2c_potential": "감성/관계"
   }
 ]
