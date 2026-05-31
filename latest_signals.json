@@ -1,93 +1,117 @@
 [
   {
-    "signal": "게임 정보/후기 추천 커뮤니티 - 신작 게임 구매 전 정보 수집 및 DLC/트레일러 반응",
+    "signal": "게임/캐릭터 팬심과 내부 밈 공유 문화 — 게임 캐릭터에 대한 일상적 감정 표현과 팬 커뮤니티",
     "source_posts": [
       {
-        "title": "4탄 DLC 또 나올까요?",
-        "url": "https://bbs.ruliweb.com/etcs/board/100520/read/9333607",
+        "title": "(니케) 근데 한슨이... ㅋㅋㅋ...",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390548?",
         "source": "ruliweb"
       },
       {
-        "title": "콜옵) 모던워페어4 트레일러 조회수보소 ㄷㄷㄷ 4천만돌파",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377944?",
+        "title": "트릭컬) 사리 ㄸㅁ고싶다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390541?",
         "source": "ruliweb"
       },
       {
-        "title": "롤) 비디디를 만난 덕피",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377931?",
+        "title": "페그오) 브라다만테의 자각",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390536?",
         "source": "ruliweb"
       },
       {
-        "title": "5월 개발 일지 및 향후 콘텐츠 소개[59]인디 게임 개발",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433346",
+        "title": "롤) 냉동피자 먹으면서 순위결정전 구경해야겠따",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390535?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "니케) '개변태착정컨텐츠'",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390532?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "게임/캐릭터별 팬 커뮤니티 + 팬아트 공유, 캐릭터 응원방, 내부 밈 큐레이션 플랫폼",
+    "target_user": "20-30대 게임 팬 (특히 여성 팬층)",
+    "urgency": "high",
+    "b2c_potential": "감성/취미"
+  },
+  {
+    "signal": "야구 팬의 집단적 응원 문화 — 팀/선수 성적에 대한 감정 공유 및 응원 열정",
+    "source_posts": [
+      {
+        "title": "야구) SSG 12연패?",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390545?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "야구) 구자욱 벌써부터 후반기 모드네",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390540?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "야구)12연패했다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390537?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "야구) 또 찬스를 날렸느냐",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390546?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "팀별/선수별 팬 응원 플랫폼 + 경기 통계, 응원 메시지 실시간 공유, 팬 이벤트 관리",
+    "target_user": "20-40대 야구 팬 (특히 직장인)",
+    "urgency": "high",
+    "b2c_potential": "감성/관계"
+  },
+  {
+    "signal": "일상 생활 꿀팁 및 제품 관련 빠른 답변 니즈 — 조리, 전자제품 등 생활 실용 정보",
+    "source_posts": [
+      {
+        "title": "메추리알 장조림 전자렌지에 돌려도 되나요?",
+        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619484",
+        "source": "ruliweb"
+      },
+      {
+        "title": "PS 5 프로 쿨링팬 필요하까요?",
+        "url": "https://bbs.ruliweb.com/etcs/board/300426/read/30605488",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "AI 기반 생활 꿀팁 Q&A 플랫폼 + 커뮤니티 검증, 카테고리별 빠른 답변",
+    "target_user": "20-50대 일반인 (주부, 직장인)",
+    "urgency": "medium",
+    "b2c_potential": "기타"
+  },
+  {
+    "signal": "직장인의 퇴근 후 루틴과 취미 활동으로 스트레스 해소 — 일과 삶의 균형에 대한 욕구",
+    "source_posts": [
+      {
+        "title": "유게이들이 빨리 내일이 와서 출근하고 싶은 이유",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390544?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "직장인 퇴근 후 루틴 빌더 + 게임/취미 커뮤니티 연결, 스트레스 해소 활동 매칭",
+    "target_user": "20-30대 직장인",
+    "urgency": "medium",
+    "b2c_potential": "취미"
+  },
+  {
+    "signal": "스트리머/버튜버에 대한 팬 활동 및 응원 경제 — 팬 커뮤니티의 활발한 응원 문화",
+    "source_posts": [
+      {
+        "title": "육수전문점. 여 스트리머 공개 연애한 썰.jpg[199]국내야구14:30",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433558",
         "source": "dcinside"
+      },
+      {
+        "title": "버튜버) 시구레 우이 센세 물량공세로 나셨다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75390534?",
+        "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임별 커뮤니티 + AI 요약 (YouTube 댓글처럼 유저 반응을 시간순으로 모아 트렌드 파악)",
-    "target_user": "20-35대 게임 캐주얼/하드코어 유저",
+    "idea_hint": "스트리머/버튜버 팬 응원 플랫폼 + 팬아트 마켓, 팬 커뮤니티, 팬 이벤트 관리",
+    "target_user": "10-30대 팬 (특히 여성)",
     "urgency": "high",
-    "b2c_potential": "취미"
-  },
-  {
-    "signal": "소비 선택 전 커뮤니티 조언 - 냉동만두·팝콘 등 일상 소비부터 영화/드라마 선택까지",
-    "source_posts": [
-      {
-        "title": "저렴하면서도 먹을 만한 냉동 만두 추천 부탁드립니다",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619480",
-        "source": "ruliweb"
-      },
-      {
-        "title": "영화관에서 팝콘을 사면",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377942?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "드라마) 아무도 관심없는 하오드 시즌3",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377938?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "일본산 같은 국산 브랜드",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377945?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "구조화된 '이거 어때요?' 플랫폼 - 카테고리별 선택 옵션 + 투표/리뷰 (Reddit AMA 스타일 빠른 의견 수집)",
-    "target_user": "20-40대 구매 전 신중한 소비자",
-    "urgency": "high",
-    "b2c_potential": "생활/소비"
-  },
-  {
-    "signal": "덕질 활동 기록 & 공유 - 굿즈 구매, 래플 참여, 수집품 자랑",
-    "source_posts": [
-      {
-        "title": "명조)굿즈 받고 럭키드로우 막차까지 탔다",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377939?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "선물받은 30mf 프라 가조립 완료",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377933?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "Instagram/Pinterest 스타일 덕질 타임라인 - 굿즈 구매 기록, 래플 당첨 추적, 수집품 갤러리 (Goodreads for collectibles)",
-    "target_user": "10-40대 덕후/취미 활동 활발한 사람",
-    "urgency": "medium",
-    "b2c_potential": "취미"
-  },
-  {
-    "signal": "인생 전환점 결정 고민 - 직업 선택, 유학/이직 등 큰 결정 앞에서 경험자 조언 구하기",
-    "source_posts": [
-      {
-        "title": "연기학원아래서 1시간째 고민중",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75377940?",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "구조화된 의사결정 가이드 + 커뮤니티 피드백 - '연기학원 vs 배우 취업' 같은 선택지별 경험담 모으기 (What Should I Do 스타일)",
-    "target_user": "20-45대 인생 전환기에 있는 사람들",
-    "urgency": "medium",
     "b2c_potential": "감성/관계"
   }
 ]

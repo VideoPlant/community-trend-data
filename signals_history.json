@@ -1,5 +1,132 @@
 [
   {
+    "collected_at": "2026-05-31T08:00:58Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임/캐릭터 팬심과 내부 밈 공유 문화 — 게임 캐릭터에 대한 일상적 감정 표현과 팬 커뮤니티",
+        "source_posts": [
+          {
+            "title": "(니케) 근데 한슨이... ㅋㅋㅋ...",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390548?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "트릭컬) 사리 ㄸㅁ고싶다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390541?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "페그오) 브라다만테의 자각",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390536?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "롤) 냉동피자 먹으면서 순위결정전 구경해야겠따",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390535?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "니케) '개변태착정컨텐츠'",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390532?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임/캐릭터별 팬 커뮤니티 + 팬아트 공유, 캐릭터 응원방, 내부 밈 큐레이션 플랫폼",
+        "target_user": "20-30대 게임 팬 (특히 여성 팬층)",
+        "urgency": "high",
+        "b2c_potential": "감성/취미"
+      },
+      {
+        "signal": "야구 팬의 집단적 응원 문화 — 팀/선수 성적에 대한 감정 공유 및 응원 열정",
+        "source_posts": [
+          {
+            "title": "야구) SSG 12연패?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390545?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "야구) 구자욱 벌써부터 후반기 모드네",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390540?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "야구)12연패했다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390537?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "야구) 또 찬스를 날렸느냐",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390546?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "팀별/선수별 팬 응원 플랫폼 + 경기 통계, 응원 메시지 실시간 공유, 팬 이벤트 관리",
+        "target_user": "20-40대 야구 팬 (특히 직장인)",
+        "urgency": "high",
+        "b2c_potential": "감성/관계"
+      },
+      {
+        "signal": "일상 생활 꿀팁 및 제품 관련 빠른 답변 니즈 — 조리, 전자제품 등 생활 실용 정보",
+        "source_posts": [
+          {
+            "title": "메추리알 장조림 전자렌지에 돌려도 되나요?",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619484",
+            "source": "ruliweb"
+          },
+          {
+            "title": "PS 5 프로 쿨링팬 필요하까요?",
+            "url": "https://bbs.ruliweb.com/etcs/board/300426/read/30605488",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "AI 기반 생활 꿀팁 Q&A 플랫폼 + 커뮤니티 검증, 카테고리별 빠른 답변",
+        "target_user": "20-50대 일반인 (주부, 직장인)",
+        "urgency": "medium",
+        "b2c_potential": "기타"
+      },
+      {
+        "signal": "직장인의 퇴근 후 루틴과 취미 활동으로 스트레스 해소 — 일과 삶의 균형에 대한 욕구",
+        "source_posts": [
+          {
+            "title": "유게이들이 빨리 내일이 와서 출근하고 싶은 이유",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390544?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "직장인 퇴근 후 루틴 빌더 + 게임/취미 커뮤니티 연결, 스트레스 해소 활동 매칭",
+        "target_user": "20-30대 직장인",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "스트리머/버튜버에 대한 팬 활동 및 응원 경제 — 팬 커뮤니티의 활발한 응원 문화",
+        "source_posts": [
+          {
+            "title": "육수전문점. 여 스트리머 공개 연애한 썰.jpg[199]국내야구14:30",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433558",
+            "source": "dcinside"
+          },
+          {
+            "title": "버튜버) 시구레 우이 센세 물량공세로 나셨다",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75390534?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "스트리머/버튜버 팬 응원 플랫폼 + 팬아트 마켓, 팬 커뮤니티, 팬 이벤트 관리",
+        "target_user": "10-30대 팬 (특히 여성)",
+        "urgency": "high",
+        "b2c_potential": "감성/관계"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-30T08:00:49Z",
     "post_count": 80,
     "sources": [
@@ -2840,104 +2967,6 @@
         "target_user": "30-40대 여행객, SNS 활동적인 감성적 유저",
         "urgency": "medium",
         "b2c_potential": "감성/취미"
-      }
-    ]
-  },
-  {
-    "collected_at": "2026-05-01T08:00:53Z",
-    "post_count": 80,
-    "sources": [
-      "clien",
-      "dcinside",
-      "ruliweb",
-      "todayhumor"
-    ],
-    "signals": [
-      {
-        "signal": "게이머들의 HOT 이슈 실시간 추적 및 커뮤니티 논란 분석 수요",
-        "source_posts": [
-          {
-            "title": "롤) 논란 뜨자마자 팀에서 일단 결론날 때까지 경기 못나오게 하고",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020065?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "롤) 이제 케스파가 징계를 주면 개쳐웃기겠네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020064?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "롤) 이제 국세청이 맞냐 lck가 맞냐가 된건데",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020063?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "롤)공식 채팅창 밴도 안함 ㅋㅋ",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020062?",
-            "source": "ruliweb"
-          }
-        ],
-        "idea_hint": "게임 커뮤니티의 실시간 HOT 이슈를 자동 수집·AI 요약·감정분석해서 게이머에게 맞춤 큐레이션하는 앱",
-        "target_user": "20-30대 게이머, 특히 롤/이스포츠 팬",
-        "urgency": "high",
-        "b2c_potential": "취미"
-      },
-      {
-        "signal": "일상의 소소한 행복 순간 공유 및 감성 커뮤니티 수요",
-        "source_posts": [
-          {
-            "title": "낮잠 잠깐 잤는데 엄청 행복한 기분이야",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020066?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "[ㅇㅎ] 짤쟁이 간만입니다(50)",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425681",
-            "source": "dcinside"
-          },
-          {
-            "title": "싱글벙글 일본에서 제일 잘나간다는 천재 디자이너",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425696",
-            "source": "dcinside"
-          }
-        ],
-        "idea_hint": "감성 순간을 영상/사진으로 공유하고 AI 감정분석으로 비슷한 감정 사람들 매칭·커뮤니티화하는 감성 SNS",
-        "target_user": "20-30대 직장인, 감성 콘텐츠 선호층",
-        "urgency": "medium",
-        "b2c_potential": "감성"
-      },
-      {
-        "signal": "비혼·1인 라이프 확산에 따른 맞춤형 라이프스타일 가이드 수요",
-        "source_posts": [
-          {
-            "title": "19?)내가 30대에 연애를 깔끔하게 포기한 이유중 하나",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75020055?",
-            "source": "ruliweb"
-          }
-        ],
-        "idea_hint": "30-40대 비혼자 위한 '혼자 잘 사는' 라이프스타일 앱 (취미 추천·일정관리·혼족 커뮤니티)",
-        "target_user": "30-40대 미혼자, 1인 가구",
-        "urgency": "medium",
-        "b2c_potential": "라이프스타일"
-      },
-      {
-        "signal": "성형·외모·스타일 개선에 대한 한국식 미적기준 가이드 수요",
-        "source_posts": [
-          {
-            "title": "싱글벙글 대부분 티가 심하게 난다는 성형수술",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425691",
-            "source": "dcinside"
-          },
-          {
-            "title": "싱글벙글 일본에서 제일 잘나간다는 천재 디자이너",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425696",
-            "source": "dcinside"
-          }
-        ],
-        "idea_hint": "얼굴 사진 업로드 → AI가 '한국 미적기준 기반 개선점'과 '성형 없이 패션/메이크업으로 해결하는 방법' 제시",
-        "target_user": "20-30대 여성, 외모 관심층",
-        "urgency": "medium",
-        "b2c_potential": "감성"
       }
     ]
   }
