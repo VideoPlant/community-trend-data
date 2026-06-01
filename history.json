@@ -1,5 +1,16 @@
 [
   {
+    "collected_at": "2026-06-01T08:00:55Z",
+    "total": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signal_count": 4
+  },
+  {
     "collected_at": "2026-05-31T08:00:58Z",
     "total": 80,
     "sources": [
@@ -309,17 +320,6 @@
   },
   {
     "collected_at": "2026-05-03T08:00:59Z",
-    "total": 80,
-    "sources": [
-      "clien",
-      "dcinside",
-      "ruliweb",
-      "todayhumor"
-    ],
-    "signal_count": 4
-  },
-  {
-    "collected_at": "2026-05-02T08:01:26Z",
     "total": 80,
     "sources": [
       "clien",

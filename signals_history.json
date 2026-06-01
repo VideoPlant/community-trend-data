@@ -1,5 +1,103 @@
 [
   {
+    "collected_at": "2026-06-01T08:00:55Z",
+    "post_count": 80,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ruliweb",
+      "todayhumor"
+    ],
+    "signals": [
+      {
+        "signal": "게임 플레이어들의 캐릭터 선택·패치 판단 의사결정 어려움",
+        "source_posts": [
+          {
+            "title": "블루아카) 내일 천장포인트로 임리오보단 임마리 데려가는게 낫겠지?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75401798?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "주술회전 여자들에게 인기잇는 이유가?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75401801?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "유희왕) 한국에서 제일 유명한 YP(유희왕 플레이어)",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75401803?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "말딸) 하 씨.발 나정도면 제퍼 사랑단 맞냐?",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75401807?",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "게임별 캐릭터 추천 AI + 커뮤니티 투표 기반 의사결정 지원 앱",
+        "target_user": "20-35세 게이머, 모바일 게임(블루아카, 주술회전) 유저",
+        "urgency": "high",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "반려동물 보호자들의 건강 증상 진단 및 케어 정보 부족",
+        "source_posts": [
+          {
+            "title": "집사 : 우리집개 실명인것 같아요 ㅠㅠ.jpg",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75401806?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "반려동물 꼬시기와 열기구 타기 질문.",
+            "url": "https://bbs.ruliweb.com/etcs/board/185595/read/14913",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "반려동물 증상 체크리스트 + 수의사 상담 예약 + 케어 팁 큐레이션 플랫폼",
+        "target_user": "반려동물 보호자 (20-50세), 반려견·반려묘 소유자",
+        "urgency": "high",
+        "b2c_potential": "건강"
+      },
+      {
+        "signal": "편의점·카페 신상품 트렌드 정보 획득 및 리뷰 공유 욕구",
+        "source_posts": [
+          {
+            "title": "싱글벙글 오늘 일본 세븐일레븐에 출시한 한식들",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433858",
+            "source": "dcinside"
+          },
+          {
+            "title": "처음 코스트코 떡볶이에는 김말이 없었뜸",
+            "url": "https://bbs.ruliweb.com/community/board/300143/read/75401805?",
+            "source": "ruliweb"
+          },
+          {
+            "title": "메가커피 아아 교환권도 잔액 남나요?",
+            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619490",
+            "source": "ruliweb"
+          }
+        ],
+        "idea_hint": "편의점·카페 신상품 모아보기 + 실시간 구매처 안내 + 사용자 리뷰 큐레이션 앱",
+        "target_user": "20-45세 직장인, 편의점·카페 자주 이용자",
+        "urgency": "medium",
+        "b2c_potential": "취미"
+      },
+      {
+        "signal": "중년 직장인들의 인간관계 정리·심리 상담 및 자존감 회복 니즈",
+        "source_posts": [
+          {
+            "title": "40대 아재. 인간관계 정리하다보니 어느새 혼자가 되어 있네요[186]기타 국내 드라마15:50",
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433831",
+            "source": "dcinside"
+          }
+        ],
+        "idea_hint": "중년층 심리 상담 + 자존감 회복 + 새로운 관계 만들기 커뮤니티 플랫폼",
+        "target_user": "35-55세 직장인, 인간관계 고민·외로움 경험자",
+        "urgency": "medium",
+        "b2c_potential": "관계"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-31T08:00:58Z",
     "post_count": 80,
     "sources": [
@@ -2864,109 +2962,6 @@
         "target_user": "20-35세 게임 애호가·콘텐츠 소비자",
         "urgency": "medium",
         "b2c_potential": "취미"
-      }
-    ]
-  },
-  {
-    "collected_at": "2026-05-02T08:01:26Z",
-    "post_count": 80,
-    "sources": [
-      "clien",
-      "dcinside",
-      "ruliweb",
-      "todayhumor"
-    ],
-    "signals": [
-      {
-        "signal": "일상의 소소한 감정/경험을 공유하고 공감받고 싶은 욕구",
-        "source_posts": [
-          {
-            "title": "별헤는 밤",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032991?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "결혼식 끝나고 야구장 온 부부",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032982?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "히어로의 숙명",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032980?",
-            "source": "ruliweb"
-          }
-        ],
-        "idea_hint": "일상 감정을 짧게 공유 → AI 공감/격려 메시지 생성 → 비슷한 감정의 사람 자동 연결",
-        "target_user": "20-30대 감성적 직장인/학생",
-        "urgency": "high",
-        "b2c_potential": "감성/관계"
-      },
-      {
-        "signal": "게임/취미 커뮤니티에서 초보자가 쉽게 참여하고 질문하기 어려운 진입장벽",
-        "source_posts": [
-          {
-            "title": "롤)무징계 나오니까 슬슬 역턴 잡는 \"그 팬들\"보이는구나",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032986?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "블루아카) 아지타니 히후미 아십니까",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032989?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "'Lana'라는 이름을 가진 캐릭터는 애널물이 많다더라",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032988?",
-            "source": "ruliweb"
-          }
-        ],
-        "idea_hint": "게임/취미 커뮤니티 질문 입력 → AI가 커뮤니티 맥락 학습 후 친절한 답변 + 관련 글 추천",
-        "target_user": "게임/취미 커뮤니티 초보자, 커뮤니티 운영자",
-        "urgency": "high",
-        "b2c_potential": "취미"
-      },
-      {
-        "signal": "기억나는 특징/장면으로 지나간 미디어(만화/웹툰/게임)를 찾기 어려운 문제",
-        "source_posts": [
-          {
-            "title": "어떤 만화였는지 알고 싶어요",
-            "url": "https://bbs.ruliweb.com/community/board/300142/read/30619377",
-            "source": "ruliweb"
-          },
-          {
-            "title": "예전에 재밌게 본 웹툰",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032983?",
-            "source": "ruliweb"
-          }
-        ],
-        "idea_hint": "기억나는 장면/특징 설명 → AI 검색 + 관계사 추천 DB → 비슷 취향의 작품 추천",
-        "target_user": "20-30대 취미 애호가, 만화/웹툰 팬",
-        "urgency": "medium",
-        "b2c_potential": "취미"
-      },
-      {
-        "signal": "일상과 여행 사진을 SNS에 의미 있게 공유하기 위한 감성적 표현 필요",
-        "source_posts": [
-          {
-            "title": "갤럭시 S23U로 담아본 블랙이글스 에어쇼",
-            "url": "https://bbs.ruliweb.com/community/board/300143/read/75032889?",
-            "source": "ruliweb"
-          },
-          {
-            "title": "시코쿠에서 배타고 고베 오사카 사진",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425904",
-            "source": "dcinside"
-          },
-          {
-            "title": "싱글벙글 한국의 정을 느낄수있다는 광장시장",
-            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=425905",
-            "source": "dcinside"
-          }
-        ],
-        "idea_hint": "여행/일상 사진 업로드 → Claude Haiku가 감성적 캡션/글귀 자동 생성 → SNS 포스팅용 원본 제공",
-        "target_user": "30-40대 여행객, SNS 활동적인 감성적 유저",
-        "urgency": "medium",
-        "b2c_potential": "감성/취미"
       }
     ]
   }
