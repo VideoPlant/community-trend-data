@@ -1,87 +1,87 @@
 [
   {
-    "signal": "게임 플레이어들의 캐릭터 선택·패치 판단 의사결정 어려움",
+    "signal": "직장 스트레스 & 일상 탈출 욕구",
     "source_posts": [
       {
-        "title": "블루아카) 내일 천장포인트로 임리오보단 임마리 데려가는게 낫겠지?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75401798?",
+        "title": "아! 일본여행3일전 회사의권고사직으로인한기분X같았던여행이여!",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=434143",
+        "source": "dcinside"
+      },
+      {
+        "title": "내일 출근하라고 하네",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75413007?",
         "source": "ruliweb"
       },
       {
-        "title": "주술회전 여자들에게 인기잇는 이유가?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75401801?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "유희왕) 한국에서 제일 유명한 YP(유희왕 플레이어)",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75401803?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "말딸) 하 씨.발 나정도면 제퍼 사랑단 맞냐?",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75401807?",
+        "title": "주님 저에게 힘을주세요....!!",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75413004?",
         "source": "ruliweb"
       }
     ],
-    "idea_hint": "게임별 캐릭터 추천 AI + 커뮤니티 투표 기반 의사결정 지원 앱",
-    "target_user": "20-35세 게이머, 모바일 게임(블루아카, 주술회전) 유저",
+    "idea_hint": "직장인이 매일 스트레스를 기록하고 커뮤니티 멤버로부터 공감과 위로를 받는 감정 일기 + SNS 앱",
+    "target_user": "20-40대 직장인 (고스트 추방/퇴근 후 감정 공유 원함)",
+    "urgency": "high",
+    "b2c_potential": "감성/관계"
+  },
+  {
+    "signal": "게임·애니 팬덤 수집물 자랑 & 공유",
+    "source_posts": [
+      {
+        "title": "한카리아스, 비버통 등 포켓몬 레고 다수 유출",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=434141",
+        "source": "dcinside"
+      },
+      {
+        "title": "메이플) 쌀숭이는 어디에나 있다",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75413009?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "블루아카) 교복 문주님.grim",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75413006?",
+        "source": "ruliweb"
+      },
+      {
+        "title": "[스타레일] 아니 진짜 그거였냐고 ㅋㅋㅋ",
+        "url": "https://bbs.ruliweb.com/community/board/300143/read/75413000?",
+        "source": "ruliweb"
+      }
+    ],
+    "idea_hint": "개인 게임 굿즈·캐릭터 수집품을 갤러리로 기록하고 게임별 팬덤 커뮤니티에 자랑하는 모바일 앱 (포켓몬GO의 도감 + 인스타)",
+    "target_user": "10-30대 게임/애니메이션 수집가",
     "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "반려동물 보호자들의 건강 증상 진단 및 케어 정보 부족",
+    "signal": "개인 여행 경험 검증 & 일정 공유",
     "source_posts": [
       {
-        "title": "집사 : 우리집개 실명인것 같아요 ㅠㅠ.jpg",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75401806?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "반려동물 꼬시기와 열기구 타기 질문.",
-        "url": "https://bbs.ruliweb.com/etcs/board/185595/read/14913",
-        "source": "ruliweb"
-      }
-    ],
-    "idea_hint": "반려동물 증상 체크리스트 + 수의사 상담 예약 + 케어 팁 큐레이션 플랫폼",
-    "target_user": "반려동물 보호자 (20-50세), 반려견·반려묘 소유자",
-    "urgency": "high",
-    "b2c_potential": "건강"
-  },
-  {
-    "signal": "편의점·카페 신상품 트렌드 정보 획득 및 리뷰 공유 욕구",
-    "source_posts": [
-      {
-        "title": "싱글벙글 오늘 일본 세븐일레븐에 출시한 한식들",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433858",
+        "title": "도쿄 2박3일 간단후기(가마쿠라 에노시마 포함).webp[35]일본여행 - 관동이외",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=434134",
         "source": "dcinside"
       },
       {
-        "title": "처음 코스트코 떡볶이에는 김말이 없었뜸",
-        "url": "https://bbs.ruliweb.com/community/board/300143/read/75401805?",
-        "source": "ruliweb"
-      },
-      {
-        "title": "메가커피 아아 교환권도 잔액 남나요?",
-        "url": "https://bbs.ruliweb.com/community/board/300142/read/30619490",
-        "source": "ruliweb"
+        "title": "아! 일본여행3일전 회사의권고사직으로인한기분X같았던여행이여!",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=434143",
+        "source": "dcinside"
       }
     ],
-    "idea_hint": "편의점·카페 신상품 모아보기 + 실시간 구매처 안내 + 사용자 리뷰 큐레이션 앱",
-    "target_user": "20-45세 직장인, 편의점·카페 자주 이용자",
-    "urgency": "medium",
+    "idea_hint": "여행 일정을 세우기 전 실제 다녀온 사람들의 단계별 후기·팁·소요 비용을 검증받는 여행 플래너 커뮤니티",
+    "target_user": "20-40대 국외 여행 계획가 (일정 예측 불확실성 감소 원함)",
+    "urgency": "high",
     "b2c_potential": "취미"
   },
   {
-    "signal": "중년 직장인들의 인간관계 정리·심리 상담 및 자존감 회복 니즈",
+    "signal": "세대간 생각 공유 & 소통 필요",
     "source_posts": [
       {
-        "title": "40대 아재. 인간관계 정리하다보니 어느새 혼자가 되어 있네요[186]기타 국내 드라마15:50",
-        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=433831",
+        "title": "중학생 아들이 아빠가 사준 패딩 못입은 이유[194]기타 국내 드라마",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=434135",
         "source": "dcinside"
       }
     ],
-    "idea_hint": "중년층 심리 상담 + 자존감 회복 + 새로운 관계 만들기 커뮤니티 플랫폼",
-    "target_user": "35-55세 직장인, 인간관계 고민·외로움 경험자",
+    "idea_hint": "부모와 자식이 서로의 '이해 못 하는 선택'을 구조화된 대화로 풀어내는 중재형 대화 앱",
+    "target_user": "20-60대 부모·자식 관계 (세대 갈등 완화 원함)",
     "urgency": "medium",
     "b2c_potential": "관계"
   }
